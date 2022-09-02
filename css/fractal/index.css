@@ -3631,6 +3631,12 @@ input, select, textarea {
 		height: 100vh;
 	}
 
+	#header.four-oh-four {
+		background-color: #ca9247;
+	}
+
+
+
 		#header input[type="submit"],
 		#header input[type="reset"],
 		#header input[type="button"],
