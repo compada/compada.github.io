@@ -3831,6 +3831,7 @@ input, select, textarea {
 			font-size: 3.25em;
 			font-weight: bold;
 			margin-bottom: 0.5em;
+			padding-left: 10px;
 		}
 
 		#header p {
@@ -3852,7 +3853,6 @@ input, select, textarea {
 			-ms-transform: translateX(0);
 			transform: translateX(0);
 			opacity: 1;
-			text-align: right;
 			margin: -3.5em 4em 0 0;
 		}
 
