@@ -3932,6 +3932,7 @@ input, select, textarea {
 
 				#header .image {
 					overflow: hidden;
+					display: none;
 				}
 
 		}
@@ -3942,9 +3943,9 @@ input, select, textarea {
 				background-image: url("../../images/overlay.png"), url("../../images/pattern-size3.svg");
 			}
 
-				#header h1 {
+				/* #header h1 {
 					font-size: 2em;
-				}
+				} */
 
 				#header p {
 					font-size: 1em;
