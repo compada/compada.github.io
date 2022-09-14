@@ -2,9 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-body header {
-  background-color: #4696e5;
-  background-position: top left, center center;
-  background-attachment: fixed, fixed;
-  background-size: auto, cover;
+@layer components {
+  .btn {
+    @apply text-base font-medium rounded-lg p-3;
+  }
+
+  .btn--primary {
+    @apply bg-primary text-white;
+  }
+
+  .btn--secondary {
+    @apply text-slate-900;
+  }
 }

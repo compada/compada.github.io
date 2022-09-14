@@ -4,7 +4,13 @@ Marketing pages deployed via GitHub Pages. Template snagged from <https://html5u
 
 ## Getting Started
 
-Visit the index.html file from your browser... make changes... refresh the page... no build tooling here.
+Start the Tailwind CLI build process:
+
+```sh
+npx tailwindcss -i ./css/tailwind.index.css -o ./css/index.css --watch
+```
+
+Visit the index.html file from your browser... make changes... refresh the page...
 
 ## Contributing
 

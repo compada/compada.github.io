@@ -2,6 +2,14 @@
 module.exports = {
   content: ["./*.html"],
   theme: {
+    container: {
+      center: true,
+      padding: '2rem',
+    },
+    colors: {
+      'primary': '#013eb0',
+      'white': 'white'
+    },
     extend: {
       backgroundImage: {
         'header-pattern-lg': "url('images/overlay.png'), url('images/pattern-size1.svg')",
@@ -10,5 +18,7 @@ module.exports = {
       }
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/forms'),
+  ],
 }
