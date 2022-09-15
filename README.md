@@ -29,3 +29,4 @@ Learn about the various tech powering this application:
 - [tailwind css](https://tailwindcss.com/)
 - [tailwind ui](https://tailwindui.com/)
 - [alpine js](https://alpinejs.dev/)
+- [unsplash](https://unsplash.com/)
