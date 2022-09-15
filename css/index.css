@@ -775,6 +775,14 @@ select {
   top: 0px;
 }
 
+.left-\[9px\] {
+  left: 9px;
+}
+
+.left-\[7px\] {
+  left: 7px;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -1125,6 +1133,14 @@ select {
   padding-right: 0.5rem;
 }
 
+.pt-20 {
+  padding-top: 5rem;
+}
+
+.pt-24 {
+  padding-top: 6rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -1418,6 +1434,10 @@ select {
     padding-top: 4rem;
   }
 
+  .sm\:pt-20 {
+    padding-top: 5rem;
+  }
+
   .sm\:text-center {
     text-align: center;
   }
@@ -1571,6 +1591,14 @@ select {
 
   .lg\:pb-14 {
     padding-bottom: 3.5rem;
+  }
+
+  .lg\:pb-20 {
+    padding-bottom: 5rem;
+  }
+
+  .lg\:pt-20 {
+    padding-top: 5rem;
   }
 
   .lg\:text-left {
