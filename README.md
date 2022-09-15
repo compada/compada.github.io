@@ -1,6 +1,6 @@
 # Compada Homepage
 
-Marketing pages deployed via GitHub Pages. Template snagged from <https://html5up.net/>
+Marketing pages deployed via GitHub Pages. Utilizes `tailwindcss` and `alpinejs`.
 
 ## Getting Started
 
@@ -19,11 +19,13 @@ Visit the index.html file from your browser... make changes... refresh the page.
 
 ## Deployment
 
-Pushing the `production` branch to origin will trigger a deploy.
+Pushing the `main` branch to origin will trigger a deploy.
 
 ## Reading
 
 Learn about the various tech powering this application:
 
 - [Pages](https://pages.github.com)
-<!-- - [tailwindcss](https://tailwindcss.com/) -->
+- [tailwind css](https://tailwindcss.com/)
+- [tailwind ui](https://tailwindui.com/)
+- [alpine js](https://alpinejs.dev/)
