@@ -21,37 +21,28 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="https://rsms.me/inter/inter.css">
     <link rel="stylesheet" type="text/css" href="css/index.css">
+    <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
   </head>
-  <body class="dark:bg-neutral-900 dark:text-white/90">
-        <!--
-      This example requires Tailwind CSS v2.0+
-
-      This example requires some changes to your config:
-
-      ```
-      // tailwind.config.js
-      module.exports = {
-        // ...
-        plugins: [
-          // ...
-          require('@tailwindcss/forms'),
-        ],
-      }
-      ```
-    -->
+  <body>
     <div class="relative overflow-hidden">
-      <header class="relative">
+      <header
+        x-data="{ isOpen: false }"
+        class="relative">
         <div class="bg-gray-900 pt-6">
           <nav class="relative mx-auto flex max-w-7xl items-center justify-between px-4 sm:px-6" aria-label="Global">
             <div class="flex flex-1 items-center">
               <div class="flex w-full items-center justify-between md:w-auto">
                 <a href="#">
-                  <span class="sr-only">Your Company</span>
-                  <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500" alt="">
+                  <span class="sr-only">Compada</span>
+                  <picture>
+                    <source srcset="images/logo-inverted-200-round.png" media="(prefers-color-scheme: dark)">
+                    <img class="h-10 w-auto" src="images/logo-200-round.png" alt="">
+                  </picture>
                 </a>
                 <div class="-mr-2 flex items-center md:hidden">
-                  <button type="button" class="focus-ring-inset inline-flex items-center justify-center rounded-md bg-gray-900 p-2 text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-white" aria-expanded="false">
+                  <button @click="isOpen = !isOpen" type="button" class="focus-ring-inset inline-flex items-center justify-center rounded-md bg-gray-900 p-2 text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-white" aria-expanded="false">
                     <span class="sr-only">Open main menu</span>
                     <!-- Heroicon name: outline/bars-3 -->
                     <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -77,24 +68,22 @@
           </nav>
         </div>
 
-        <!--
-          Mobile menu, show/hide based on menu open state.
-
-          Entering: "duration-150 ease-out"
-            From: "opacity-0 scale-95"
-            To: "opacity-100 scale-100"
-          Leaving: "duration-100 ease-in"
-            From: "opacity-100 scale-100"
-            To: "opacity-0 scale-95"
-        -->
-        <div class="absolute inset-x-0 top-0 z-10 origin-top transform p-2 transition md:hidden">
+        <div
+          x-show="isOpen"
+          x-transition:enter="duration-150 ease-out"
+          x-transition:enter-start="opacity-0 scale-95"
+          x-transition:enter-end="opacity-100 scale-100"
+          x-transition:leave="duration-100 ease-in"
+          x-transition:leave-start="opacity-100 scale-100"
+          x-transition:leave-end="opacity-0 scale-95"
+          class="absolute inset-x-0 top-0 z-10 origin-top transform p-2 transition md:hidden">
           <div class="overflow-hidden rounded-lg bg-white shadow-md ring-1 ring-black ring-opacity-5">
             <div class="flex items-center justify-between px-5 pt-4">
               <div>
                 <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="">
               </div>
               <div class="-mr-2">
-                <button type="button" class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-600">
+                <button @click="isOpen = !isOpen" type="button" class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-600">
                   <span class="sr-only">Close menu</span>
                   <!-- Heroicon name: outline/x-mark -->
                   <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -104,7 +93,7 @@
               </div>
             </div>
             <div class="pt-5 pb-6">
-              <div class="space-y-1 px-2">
+              <div class="text-center space-y-1 px-2">
                 <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 hover:bg-gray-50">Product</a>
 
                 <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 hover:bg-gray-50">Features</a>
@@ -125,7 +114,7 @@
       </header>
 
       <main>
-        <div class="bg-gray-900 pt-10 sm:pt-16 lg:overflow-hidden lg:pt-8 lg:pb-14">
+        <div class="min-h-screen bg-gray-900 pt-10 sm:pt-16 lg:overflow-hidden lg:pt-8 lg:pb-14">
           <div class="mx-auto max-w-7xl lg:px-8">
             <div class="lg:grid lg:grid-cols-2 lg:gap-8">
               <div class="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 sm:text-center lg:flex lg:items-center lg:px-0 lg:text-left">
