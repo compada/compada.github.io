@@ -30,3 +30,11 @@ coverage
 # Ignore env
 /.env
 .env.local
+
+# Jekyll
+/_site/*
+/.jekyll-cache/*
+/.jekyll-metadata
+
+# Ruby
+.bundle

@@ -1,0 +1,103 @@
+<footer class="bg-gray-50" aria-labelledby="footer-heading">
+  <h2 id="footer-heading" class="sr-only">Footer</h2>
+  <div class="mx-auto max-w-md px-4 pt-12 sm:max-w-7xl sm:px-6 lg:px-8 lg:pt-16">
+    <div class="xl:grid xl:grid-cols-3 xl:gap-8">
+      <div class="space-y-8 xl:col-span-1">
+        <picture class="relative left-[9px]">
+          <!-- <source srcset="images/logo-inverted-200-round.png" media="(prefers-color-scheme: dark)"> -->
+          <img class="h-10 w-auto" src="images/logo-200-round.png" alt="Compada">
+        </picture>
+        <p class="text-base text-gray-500">At Compada, everyone is part of your company!</p>
+        <div class="flex space-x-6">
+          {% for link in site.data.social %}
+            <a href="{{ link.url }}" class="text-gray-400 hover:text-gray-500">
+              <span class="sr-only">{{ link.name }}</span>
+              <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path fill-rule="evenodd" d="{{ link.d }}" clip-rule="evenodd" />
+              </svg>
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="mt-12 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
+        <div class="md:grid md:grid-cols-2 md:gap-8">
+          <div>
+            <h3 class="text-base font-medium text-gray-900">Solutions</h3>
+            <ul role="list" class="mt-4 space-y-4">
+              {% for link in site.data.links %}
+                <li>
+                  <a href="{{ link.path }}" class="text-base text-gray-500 hover:text-gray-900">{{ link.name }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="mt-12 md:mt-0">
+            <h3 class="text-base font-medium text-gray-900">Support</h3>
+            <ul role="list" class="mt-4 space-y-4">
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Pricing</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Documentation</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Guides</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">API Status</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="md:grid md:grid-cols-2 md:gap-8">
+          <div>
+            <h3 class="text-base font-medium text-gray-900">Company</h3>
+            <ul role="list" class="mt-4 space-y-4">
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">About</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Blog</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Jobs</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Press</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Partners</a>
+              </li>
+            </ul>
+          </div>
+          <div class="mt-12 md:mt-0">
+            <h3 class="text-base font-medium text-gray-900">Legal</h3>
+            <ul role="list" class="mt-4 space-y-4">
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Claim</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Privacy</a>
+              </li>
+
+              <li>
+                <a href="#" class="text-base text-gray-500 hover:text-gray-900">Terms</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="mt-12 border-t border-gray-200 py-8">
+      <p class="text-base text-gray-400 xl:text-center">&copy; 2022 Compada, Inc. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

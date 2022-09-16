@@ -4,13 +4,15 @@ Marketing pages deployed via GitHub Pages. Utilizes `tailwindcss` and `alpinejs`
 
 ## Getting Started
 
-Start the Tailwind CLI build process:
+This service makes heavy use of docker and docker compose. Setting up docker is beyond the scope of this readme.
 
-```sh
+```shell
+cp .env.sample .env
+docker compose up -d
 npx tailwindcss -i ./css/tailwind.index.css -o ./css/index.css --watch
 ```
 
-Visit the index.html file from your browser... make changes... refresh the page...
+Visit <http://localhost:8080>
 
 ## Contributing
 
