@@ -1,0 +1,9 @@
+exclude:
+  - Dockerfile
+  - compose.yml
+  - README.md
+  - CNAME
+  - Gemfile*
+  - node_modules/*
+host: 0.0.0.0
+port: 8080

@@ -1,0 +1,4 @@
+- name: Support
+  path: support
+- name: Investors
+  path: investors

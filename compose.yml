@@ -1,0 +1,20 @@
+services:
+  bundle: &bundle
+    stdin_open: true
+    tty: true
+    build:
+      context: .
+    volumes:
+      - bundle:/usr/local/bundle:delegated
+      - .:/usr/src/app:delegated
+    entrypoint: bundle
+    command: check
+
+  app:
+    <<: *bundle
+    ports:
+      - ${PORT}:8080
+    command: exec jekyll serve
+
+volumes:
+  bundle: {}
