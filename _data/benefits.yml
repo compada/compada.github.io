@@ -1,0 +1,16 @@
+- party: Business
+  description: Compada will help you move ahead and speed up problems to resolution cycles. You will be able to access a network of specialized advisors with experience in your vertical, and solving the challenges you are experiencing. In addition, Compada will save you money by reaching the right expert on demand, avoiding lengthy commitments and costly hires before your business is ready to scale.
+  # outline/cloud-arrow-up
+  d: M12 16.5V9.75m0 0l3 3m-3-3l-3 3M6.75 19.5a4.5 4.5 0 01-1.41-8.775 5.25 5.25 0 0110.233-2.33 3 3 0 013.758 3.848A3.752 3.752 0 0118 19.5H6.75z
+- party: Consulting
+  description: Expedite your due diligence projects with first party data insights. We aim to streamline the advisory network and give you access to expertise on demand.
+  # outline/lock-closed
+  d: M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z
+- party: Private Equity
+  description: Compada allows you to make better investment decisions by partnering with you throughout the investment cycle. Our specialized advisory network will bring you unique experience so that you can quickly get the insights needed for your investments.
+  # outline/arrow-path
+  d: M4.5 12c0-1.232.046-2.453.138-3.662a4.006 4.006 0 013.7-3.7 48.678 48.678 0 017.324 0 4.006 4.006 0 013.7 3.7c.017.22.032.441.046.662M4.5 12l-3-3m3 3l3-3m12 3c0 1.232-.046 2.453-.138 3.662a4.006 4.006 0 01-3.7 3.7 48.657 48.657 0 01-7.324 0 4.006 4.006 0 01-3.7-3.7c-.017-.22-.032-.441-.046-.662M19.5 12l-3 3m3-3l3 3
+- party: Advisors
+  description: Provide solutions to business challenges to those in need while getting compensated for your time. You will be able to market and monetize your expertise to business owners, consulting firms, and private equity firms from around the globe. Starting an entrepreneurial venture is not for everyone as it is a time consuming and risky endeavor. Whether you are employed and looking to apply your business knowledge to a broader community, or seeking an opportunity to network while getting compensated for your time, Compada is here for you.
+  # outline/shield-check
+  d: M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z

@@ -1,5 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 
+const colors = require('tailwindcss/colors')
+
 module.exports = {
   content: [
     "./*.html",
@@ -13,7 +15,9 @@ module.exports = {
     },
     extend: {
       colors: {
-        'primary': '#013eb0'
+        primary: '#013eb0',
+        teal: colors.teal,
+        cyan: colors.cyan,
       },
       backgroundImage: {
         'header-pattern-lg': "url('images/overlay.png'), url('images/pattern-size1.svg')",
@@ -24,5 +28,6 @@ module.exports = {
   },
   plugins: [
     require('@tailwindcss/forms'),
+    require('@tailwindcss/aspect-ratio'),
   ],
 }

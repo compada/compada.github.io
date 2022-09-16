@@ -23,8 +23,8 @@
           </div>
         </div>
         <div class="hidden space-x-8 md:ml-10 md:flex">
-          {% for link in site.data.links %}
-            <a href="{{ link.path }}" class="text-base font-medium text-white hover:text-gray-300">{{ link.name }}</a>
+          {% for link in site.data.links.offerings %}
+            <a href="{{ link.url }}" class="text-base font-medium text-white hover:text-gray-300">{{ link.name }}</a>
           {% endfor %}
         </div>
       </div>
@@ -63,7 +63,7 @@
       <div class="pt-5 pb-6">
         <div class="text-center space-y-1 px-2">
           {% for link in site.data.links %}
-            <a href="{{ link.path }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 hover:bg-gray-50">{{ link.name }}</a>
+            <a href="{{ link.url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 hover:bg-gray-50">{{ link.name }}</a>
           {% endfor %}
         </div>
         <div class="mt-6 px-5">
