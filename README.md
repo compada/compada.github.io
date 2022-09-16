@@ -18,6 +18,9 @@ Visit <http://localhost:8080>
 
 - [GitHub Pages](https://docs.github.com/en/pages)
 - [Managing a custom domain for your github pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+- [Google Search Console](https://search.google.com/)
+- [Google Tag Manager](https://tagmanager.google.com/)
+- [Google Analytics](https://analytics.google.com/)
 
 ## Deployment
 
