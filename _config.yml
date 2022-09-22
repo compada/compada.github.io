@@ -2,9 +2,9 @@ exclude:
   - Dockerfile
   - compose.yml
   - README.md
-  - CNAME
   - Gemfile*
   - node_modules/*
 host: 0.0.0.0
 port: 8080
 gtm: GTM-PGTSD2G
+auth0_url: https://compada.us.auth0.com/authorize?response_type=token&client_id=3wQwXEfNkpuxwPZUaPaKgu98lbKJzaB9&redirect_uri=https://www.linkedin.com/company/compada
