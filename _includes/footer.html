@@ -42,7 +42,7 @@
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.support %}
               <li>
-                <a href="{{ link[1].url }}" {% if link.url contains "http" %} target="_blank" {% endif %}
+                <a href="{{ link[1].url }}" {% if link[1].url contains "http" %} target="_blank" {% endif %}
                   class="text-base text-gray-500 hover:text-gray-900">{{ link[1].name }}
                 </a>
               </li>
@@ -56,7 +56,7 @@
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.company %}
               <li>
-                <a href="{{ link[1].url }}" {% if link.url contains "http" %} target="_blank" {% endif %}
+                <a href="{{ link[1].url }}" {% if link[1].url contains "http" %} target="_blank" {% endif %}
                   class="text-base text-gray-500 hover:text-gray-900">{{ link[1].name }}
                 </a>
               </li>
@@ -68,7 +68,7 @@
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.legal %}
               <li>
-                <a href="{{ link[1].url }}" {% if link.url contains "http" %} target="_blank" {% endif %}
+                <a href="{{ link[1].url }}" {% if link[1].url contains "http" %} target="_blank" {% endif %}
                   class="text-base text-gray-500 hover:text-gray-900">{{ link[1].name }}
                 </a>
               </li>
