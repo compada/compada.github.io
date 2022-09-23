@@ -1,7 +1,7 @@
 <header
   x-data="{ isOpen: false }"
-  class="absolute w-full">
-  <div class="bg-gray-900 pt-6">
+  class="absolute w-full z-50">
+  <div class="pt-6">
     <nav class="relative mx-auto flex max-w-7xl items-center justify-between px-4 sm:px-6" aria-label="Global">
       <div class="flex flex-1 items-center">
         <div class="flex w-full items-center justify-between md:w-auto">
@@ -13,7 +13,7 @@
             </picture>
           </a>
           <div class="-mr-2 flex items-center md:hidden">
-            <button @click="isOpen = !isOpen" type="button" class="focus-ring-inset inline-flex items-center justify-center rounded-md bg-gray-900 p-2 text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-white" aria-expanded="false">
+            <button @click="isOpen = !isOpen" type="button" class="focus-ring-inset inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-white" aria-expanded="false">
               <span class="sr-only">Open main menu</span>
               <!-- Heroicon name: outline/bars-3 -->
               <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
