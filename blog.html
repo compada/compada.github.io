@@ -1,0 +1,18 @@
+---
+layout: default
+title: Blog
+description: Our advisors capture the problems they solve, and walk through their recommendations. Check out these blog articles to see if any apply to your business!
+image: https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&&sat=-100
+---
+
+<main>
+  {% include common_header.html %}
+  <!-- Blog section -->
+  <div class="relative py-16">
+    <div class="mx-auto mt-12 grid max-w-md gap-8 px-4 sm:max-w-lg sm:px-6 lg:max-w-7xl lg:grid-cols-3 lg:px-8">
+    {% for post in site.posts %}
+      {% include blog_preview.html post=post %}
+    {% endfor %}
+    </div>
+  </div>
+</main>

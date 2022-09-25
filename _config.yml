@@ -1,3 +1,18 @@
+plugins:
+  - jekyll-feed
+  - jekyll-github-metadata
+feed:
+  disable_in_development: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 exclude:
   - Dockerfile
   - compose.yml
@@ -6,5 +21,10 @@ exclude:
   - node_modules/*
 host: 0.0.0.0
 port: 8080
+
+twitter:
+  username: compada_io
+author: Compada
+
 gtm: GTM-PGTSD2G
 auth0_url: https://compada.us.auth0.com/authorize?response_type=token&client_id=3wQwXEfNkpuxwPZUaPaKgu98lbKJzaB9&redirect_uri=https://www.linkedin.com/company/compada

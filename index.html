@@ -1,8 +1,8 @@
 ---
 layout: default
-id: home
 title: Compada
 description: Where everyone is part of your company!
+image: https://tailwindui.com/img/component-images/cloud-illustration-indigo-400.svg
 ---
 
 <main>
@@ -34,16 +34,18 @@ description: Where everyone is part of your company!
               know, the Compada community of advisors bring you extensive experience in their fields from around the
               world. <span class="text-indigo-400 font-bold">At Compada, everyone is part of your company!</span></p>
             <div class="mt-10 sm:mt-12">
-              <!-- Heroicon name: LinkedIn -->
               {% capture href -%}
               {{ site.auth0_url }}&screen_hint=signup&prospect=business
               {%- endcapture %}
-              {% assign linkedin_svg = "m 15.6 0 h -11.5 c -2.3 0 -4.1 1.8 -4.1 4.1 v 11.5 c 0 2.3 1.8 4.1 4.1 4.1 h 11.5 c 2.3 0 4.1 -1.8 4.1 -4.1 v -11.5 c 0 -2.3 -1.8 -4.1 -4.1 -4.1 z m -9 15.6 h -2.5 v -9 h 2.5 v 9 z m -1.2 -10.1 c -0.8 0 -1.4 -0.6 -1.4 -1.4 s 0.6 -1.4 1.4 -1.4 s 1.4 0.6 1.4 1.4 s -0.6 1.4 -1.4 1.4 z m 11.1 10.1 h -2.5 v -4.6 c 0 -2.8 -3.3 -2.6 -3.3 0 v 4.6 h -2.5 v -9 h 2.5 v 1.4 c 1.1 -2.1 5.7 -2.3 5.7 2 v 5.5 z" %}
-              {% include button_primary_icon.html href=href content="I have a problem..." svg=linkedin_svg %}
               <!-- Heroicon name: LinkedIn -->
+              {% assign linkedin_svg = "m 15.6 0 h -11.5 c -2.3 0 -4.1 1.8 -4.1 4.1 v 11.5 c 0 2.3 1.8 4.1 4.1 4.1 h 11.5 c 2.3 0 4.1 -1.8 4.1 -4.1 v -11.5 c 0 -2.3 -1.8 -4.1 -4.1 -4.1 z m -9 15.6 h -2.5 v -9 h 2.5 v 9 z m -1.2 -10.1 c -0.8 0 -1.4 -0.6 -1.4 -1.4 s 0.6 -1.4 1.4 -1.4 s 1.4 0.6 1.4 1.4 s -0.6 1.4 -1.4 1.4 z m 11.1 10.1 h -2.5 v -4.6 c 0 -2.8 -3.3 -2.6 -3.3 0 v 4.6 h -2.5 v -9 h 2.5 v 1.4 c 1.1 -2.1 5.7 -2.3 5.7 2 v 5.5 z" %}
+
+              {% include button_primary_icon.html href=href content="I have a problem..." svg=linkedin_svg %}
+
               {% capture href -%}
               {{ site.auth0_url }}&screen_hint=signup&prospect=advisor
               {%- endcapture %}
+
               {% include button_primary_icon.html href=href content="I have solutions!" svg=linkedin_svg %}
               <p class="mt-3 text-sm text-gray-300 sm:mt-4">Join our network today! By
                 registering, you agree to our <a href="{{ site.data.links.legal.terms.url }}" class="font-medium text-white">terms of service</a>.</p>
@@ -54,7 +56,7 @@ description: Where everyone is part of your company!
           <div class="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 lg:max-w-none lg:px-0">
             <!-- Illustration taken from Lucid Illustrations: https://lucid.pixsellz.io/ -->
             <img class="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-              src="https://tailwindui.com/img/component-images/cloud-illustration-indigo-400.svg" alt="">
+              src="{{ page.image }}" alt="">
           </div>
         </div>
       </div>
