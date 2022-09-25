@@ -1,22 +1,11 @@
 ---
 layout: default
-id: legal
-title: Compada legal
+title: Legal
 description: The fine print
 purpose: Read
 ---
 
-<main class="bg-white">
-  <div class="relative bg-gray-800 pb-32">
-    <div class="absolute inset-0">
-      <img class="h-full w-full object-cover" src="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&&sat=-100" alt="">
-      <div class="absolute inset-0 bg-gray-800 mix-blend-multiply" aria-hidden="true"></div>
-    </div>
-    <div class="relative mx-auto max-w-7xl py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
-      <h1 class="text-4xl font-bold tracking-tight text-white md:text-5xl lg:text-6xl">{{ page.id | capitalize }}</h1>
-      <p class="mt-6 max-w-3xl text-xl text-gray-300">{{ page.description }}</p>
-    </div>
-  </div>
-
+<main>
+  {% include common_header.html %}
   {% include overlapping_cards.html links=site.data.links.legal %}
 </main>
