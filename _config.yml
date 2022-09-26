@@ -13,6 +13,7 @@ defaults:
       type: posts
     values:
       layout: post
+name: Compada
 exclude:
   - Dockerfile
   - compose.yml
