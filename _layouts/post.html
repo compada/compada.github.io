@@ -11,7 +11,7 @@ image: -->
   <head>
     {% include head.html %}
   </head>
-  <body class="dark:bg-gray-900  dark:text-white bg-white">
+  <body>
     <noscript>
       {% if jekyll.environment == "production" %}
       <iframe src="https://www.googletagmanager.com/ns.html?id={{ site.gtm }}" height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -19,22 +19,13 @@ image: -->
     </noscript>
     {% include header.html %}
 
-    <main class="relative overflow-hidden py-16">
-      <div class="relative px-4 sm:px-6 lg:px-8">
-        <div class="mx-auto max-w-7xl py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
-          <div class="text-center">
-            <h2 class="text-lg font-semibold text-indigo-400">{{ page.date | date_to_long_string }}</h2>
-            <p class="mt-1 text-4xl font-bold tracking-tight dark:text-white text-gray-900 sm:text-5xl lg:text-6xl">{{ page.title }}</p>
-            <p class="mx-auto mt-5 max-w-xl text-xl text-gray-500">{{ page.description }}</p>
-            <h3 class="text-lg font-semibold text-indigo-400">{{ site.data.authors[page.author].name }}</h3>
-          </div>
-        </div>
-
-        <div class="prose prose-lg prose-indigo mx-auto mt-6 dark:text-white text-gray-500">
-          {{ content }}
-        </div>
+    <main>
+      {% include common_header.html %}
+      <div class="prose prose-lg prose-indigo mx-auto mt-6 dark:text-white text-gray-500 py-10 px-5 md:px-0">
+        {{ content }}
       </div>
     </main>
+
     {% include footer.html %}
   </body>
 </html>
