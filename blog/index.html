@@ -15,21 +15,23 @@ image: https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2
     </div>
   </div>
   <!-- Pagination links -->
-  <nav class="md:container md:mx-auto flex items-center justify-between border-t border-gray-200 dark:border-gray-700 px-4 py-3 sm:px-6" aria-label="Pagination">
-    <div class="hidden sm:block">
-      <p class="text-sm">
-        Showing
-        <span class="font-medium">{{ paginator.per_page | times: paginator.page | minus: paginator.per_page | plus: 1 }}</span>
-        to
-        <span class="font-medium">{{ paginator.per_page | times: paginator.page | at_most: paginator.total_posts }}</span>
-        of
-        <span class="font-medium">{{ paginator.total_posts }}</span>
-        articles
-      </p>
-    </div>
-    <div class="flex flex-1 justify-between sm:justify-end">
-      <a href="{{ paginator.previous_page_path }}" {% unless paginator.previous_page %}disabled{% endunless %} class="relative inline-flex items-center rounded-md border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 {% unless paginator.previous_page %}opacity-50{% endunless %}">Previous</a>
-      <a href="{{ paginator.next_page_path }}" {% unless paginator.next_page %}disabled{% endunless %} class="relative ml-3 inline-flex items-center rounded-md border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 {% unless paginator.next_page %}opacity-50{% endunless %}">Next</a>
+  <nav class="container px-4">
+    <div class="flex items-center justify-between border-t border-gray-200 dark:border-gray-700 py-3" aria-label="Pagination">
+      <div class="hidden sm:block">
+        <p class="text-sm">
+          Showing
+          <span class="font-medium">{{ paginator.per_page | times: paginator.page | minus: paginator.per_page | plus: 1 }}</span>
+          to
+          <span class="font-medium">{{ paginator.per_page | times: paginator.page | at_most: paginator.total_posts }}</span>
+          of
+          <span class="font-medium">{{ paginator.total_posts }}</span>
+          articles
+        </p>
+      </div>
+      <div class="flex flex-1 justify-between sm:justify-end">
+        <a href="{{ paginator.previous_page_path }}" {% unless paginator.previous_page %}disabled{% endunless %} class="relative inline-flex items-center rounded-md border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 {% unless paginator.previous_page %}opacity-50{% endunless %}">Previous</a>
+        <a href="{{ paginator.next_page_path }}" {% unless paginator.next_page %}disabled{% endunless %} class="relative ml-3 inline-flex items-center rounded-md border border-gray-300 bg-white px-4 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 {% unless paginator.next_page %}opacity-50{% endunless %}">Next</a>
+      </div>
     </div>
   </nav>
 </main>
