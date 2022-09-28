@@ -4,7 +4,7 @@
   </div>
   <div class="flex flex-1 flex-col justify-between bg-white dark:bg-gray-900 p-6">
     <div class="flex-1">
-      <p class="text-sm font-medium text-indigo-400">
+      <p class="text-sm font-medium text-cyan-800 dark:text-cyan-400">
         <a href="{{ include.post.url }}" class="hover:underline">Article</a>
       </p>
       <a href="{{ include.post.url }}" class="mt-2 block">
@@ -16,13 +16,13 @@
     <div class="mt-6 flex items-center">
       {% assign author = site.data.authors[include.post.author] %}
       <div class="flex-shrink-0">
-        <a href="#">
+        <a href="https://twitter.com/{{ author.twitter }}" target="_blank">
           <img class="h-10 w-10 rounded-full" src="{{ author.picture }}" alt="{{ author.name }}">
         </a>
       </div>
       <div class="ml-3">
         <p class="text-sm font-medium text-gray-900 dark:text-white">
-          <a href="#" class="hover:underline">{{ author.name }}</a>
+          <a href="https://twitter.com/{{ author.twitter }}" target="_blank" class="hover:underline">{{ author.name }}</a>
         </p>
         <div class="flex space-x-1 text-sm text-gray-500">
           <time datetime="2022-03-10">{{ include.post.date | date_to_long_string }}</time>

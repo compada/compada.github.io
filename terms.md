@@ -1,8 +1,5 @@
 ---
+layout: text
 title: Terms
 description: Terms and Conditions of use
 ---
-
-<main>
-  {% include common_header.html %}
-</main>

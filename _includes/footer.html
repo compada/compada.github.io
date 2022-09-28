@@ -13,7 +13,7 @@
         <p class="text-base text-gray-500">At Compada, everyone is part of your company!</p>
         <div class="flex space-x-6">
           {% for link in site.data.links.social %}
-          <a href="{{ link[1].url }}" target="_blank" class="text-gray-400 hover:text-gray-500">
+          <a href="{{ link[1].url }}" target="_blank" class="text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">
             <span class="sr-only">{{ link[1].name }}</span>
             <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path fill-rule="evenodd" d="{{ link[1].d }}" clip-rule="evenodd" />
@@ -25,7 +25,7 @@
       <div class="mt-12 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
         <div class="md:grid md:grid-cols-2 md:gap-8">
           <div>
-            <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/offerings">Offerings</a></h3>
+            <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/offerings" class="hover:underline">Offerings</a></h3>
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.offerings %}
               <li>
@@ -38,7 +38,7 @@
             </ul>
           </div>
           <div class="mt-12 md:mt-0">
-            <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/support">Support</a></h3>
+            <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/support" class="hover:underline">Support</a></h3>
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.support %}
               <li>
@@ -52,7 +52,7 @@
         </div>
         <div class="md:grid md:grid-cols-2 md:gap-8">
           <div>
-            <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/company">Company</a></h3>
+            <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/company" class="hover:underline">Company</a></h3>
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.company %}
               <li>
@@ -64,7 +64,7 @@
             </ul>
           </div>
           <div class="mt-12 md:mt-0">
-            <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/legal">Legal</a></h3>
+            <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/legal" class="hover:underline">Legal</a></h3>
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.legal %}
               <li>

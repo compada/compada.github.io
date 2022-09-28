@@ -13,7 +13,7 @@
             </picture>
           </a>
           <div class="-mr-2 flex items-center md:hidden">
-            <button @click="isOpen = !isOpen" type="button" class="focus-ring-inset inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-white" aria-expanded="false">
+            <button @click="isOpen = !isOpen" type="button" class="focus-ring-inset inline-flex items-center justify-center rounded-md p-2 text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500" aria-expanded="false">
               <span class="sr-only">Open main menu</span>
               <!-- Heroicon name: outline/bars-3 -->
               <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -24,13 +24,13 @@
         </div>
         <div class="hidden space-x-8 md:ml-10 md:flex">
           {% for link in site.data.links.offerings %}
-            <a href="{{ link[1].url }}" class="text-base font-medium text-white hover:text-gray-300">{{ link[1].name }}</a>
+            <a href="{{ link[1].url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">{{ link[1].name }}</a>
           {% endfor %}
-          <a href="{{ site.data.links.company.blog.url }}" class="text-base font-medium text-white hover:text-gray-300">{{ site.data.links.company.blog.name }}</a>
+          <a href="{{ site.data.links.company.blog.url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">{{ site.data.links.company.blog.name }}</a>
         </div>
       </div>
       <div class="hidden md:flex md:items-center md:space-x-6">
-        <a href="{{ site.auth0_url }}" class="text-base font-medium text-white hover:text-gray-300">Log in</a>
+        <a href="{{ site.auth0_url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">Log in</a>
       </div>
     </nav>
   </div>
@@ -44,14 +44,14 @@
     x-transition:leave-start="opacity-100 scale-100"
     x-transition:leave-end="opacity-0 scale-95"
     class="absolute inset-x-0 top-0 z-10 origin-top transform p-2 transition md:hidden">
-    <div class="overflow-hidden rounded-lg bg-white shadow-md ring-1 ring-black ring-opacity-5">
+    <div class="overflow-hidden rounded-lg bg-white dark:bg-gray-800 shadow-md ring-1 ring-black ring-opacity-5">
       <div class="flex items-center justify-between px-5 pt-4">
         <picture>
-          <source srcset="/images/logo-inverted-200-round.png">   <!-- media="(prefers-color-scheme: dark)" -->
+          <source srcset="/images/logo-inverted-200-round.png" media="(prefers-color-scheme: dark)">
           <img class="h-10 w-auto" src="/images/logo-200-round.png" alt="">
         </picture>
         <div class="-mr-2">
-          <button @click="isOpen = !isOpen" type="button" class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-600">
+          <button @click="isOpen = !isOpen" type="button" class="inline-flex items-center justify-center rounded-md p-2 text-gray-500 hover:bg-gray-50 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500">
             <span class="sr-only">Close menu</span>
             <!-- Heroicon name: outline/x-mark -->
             <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
@@ -63,12 +63,12 @@
       <div class="pt-5 pb-6">
         <div class="text-center space-y-1 px-2">
           {% for link in site.data.links.offerings %}
-            <a href="{{ link[1].url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 hover:bg-gray-50">{{ link[1].name }}</a>
+            <a href="{{ link[1].url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 dark:text-gray-50 hover:bg-gray-50 dark:hover:bg-gray-700">{{ link[1].name }}</a>
           {% endfor %}
-          <a href="{{ site.data.links.company.blog.url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 hover:bg-gray-50">{{ site.data.links.company.blog.name }}</a>
+          <a href="{{ site.data.links.company.blog.url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 dark:text-gray-50 hover:bg-gray-50 dark:hover:bg-gray-700">{{ site.data.links.company.blog.name }}</a>
         </div>
         <div class="mt-6 px-5">
-          <p class="text-center text-base font-medium text-gray-500">Existing member? <a href="{{ site.auth0_url }}" class="text-gray-900 hover:underline">Log in</a></p>
+          <p class="text-center text-base font-medium text-gray-500">Existing member? <a href="{{ site.auth0_url }}" class="text-gray-900 dark:text-gray-50 hover:underline">Log in</a></p>
         </div>
       </div>
     </div>

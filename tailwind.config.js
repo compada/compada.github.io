@@ -6,7 +6,8 @@ module.exports = {
   content: [
     "./*.html",
     "./_layouts/*.html",
-    "./_includes/*.html"
+    "./_includes/*.html",
+    "./blog/*.html"
   ],
   theme: {
     container: {
