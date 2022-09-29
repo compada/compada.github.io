@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Terms
-description: Terms and Conditions of Use
+title: Terms of Use
+description: Terms of Use
 image: https://unsplash.com/photos/uY6W_4UiB7E/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MjJ8fHRlcm1zJTIwYW5kJTIwY29uZGl0aW9uc3xlbnwwfHx8fDE2NjQzNDE4Nzg&force=true&w=1920
 ---
 
 ## Compada Terms of Use v1.0
 
-August 5, 2021
+October 1, 2022
 
 Compada, Inc. helps consumers research, hire, rate, and review a variety of service advisors and related professionals (collectively, "Service Providers"). The following Terms of Use outline your obligations when using the Compada websites, mobile applications, and services.
 
@@ -29,37 +29,37 @@ Compada, Inc. helps consumers research, hire, rate, and review a variety of serv
 
     As a condition of your access and use of the Sites and Services and your submission or access to any ratings, reviews, communications, information, data, text, photographs, audio clips, audiovisual works, or other materials on the Sites and Services (collectively, the "Content"), you agree not to use the Sites and Services for any purpose that is unlawful or prohibited by these Terms of Use, or any other purpose not reasonably intended by Compada. By way of example, and not as a limitation, you agree not to:
 
-    - violate these Terms of Use, other applicable agreement with Compada, and any applicable local, state, national or international law, and any rules and regulations having the force of law;
+    1. violate these Terms of Use, other applicable agreement with Compada, and any applicable local, state, national or international law, and any rules and regulations having the force of law;
 
-    - use the Sites and Services in any manner that violates any relevant law or that infringes, misappropriates or violates any third party's rights, including, but not limited to, transmitting any Content that may infringe, misappropriate or violate a third party's rights of publicity, contractual rights, fiduciary rights or intellectual property rights;
+    2. use the Sites and Services in any manner that violates any relevant law or that infringes, misappropriates or violates any third party's rights, including, but not limited to, transmitting any Content that may infringe, misappropriate or violate a third party's rights of publicity, contractual rights, fiduciary rights or intellectual property rights;
 
-    - use the Sites and Services or its Content for any purposes not authorized by these Terms of Use, including commercial, political, or religious purposes, including the submission or transmission of any Content that contains advertisements, promotional materials, junk mail, or any other form of solicitation;
+    3. use the Sites and Services or its Content for any purposes not authorized by these Terms of Use, including commercial, political, or religious purposes, including the submission or transmission of any Content that contains advertisements, promotional materials, junk mail, or any other form of solicitation;
 
-    - reproduce, duplicate, copy, modify, sell, re-sell or exploit any Content or the Sites and Services for any commercial, educational, or any other non-personal purpose or any for any purpose unrelated to your personal purchasing decisions, without the express written consent of Compada, which consent may be withheld by Compada in our sole discretion;
+    4. reproduce, duplicate, copy, modify, sell, re-sell or exploit any Content or the Sites and Services for any commercial, educational, or any other non-personal purpose or any for any purpose unrelated to your personal purchasing decisions, without the express written consent of Compada, which consent may be withheld by Compada in our sole discretion;
 
-    - post irrelevant Content, repeatedly post the same or similar Content or otherwise impose an unreasonable or disproportionately large load on our infrastructure, interfere or attempt to interfere with the proper working of the Sites and Services or any activities conducted on the Sites and Services;
+    5. post irrelevant Content, repeatedly post the same or similar Content or otherwise impose an unreasonable or disproportionately large load on our infrastructure, interfere or attempt to interfere with the proper working of the Sites and Services or any activities conducted on the Sites and Services;
 
-    - harass, threaten, intimidate, impersonate, or attempt to impersonate, any other person, falsify your contact or other information, misrepresent a relationship with any person or entity, including misrepresenting a relationship with Compada, or otherwise attempt to mislead others as to the identity of the sender or the origin of a review or rating;
+    6. harass, threaten, intimidate, impersonate, or attempt to impersonate, any other person, falsify your contact or other information, misrepresent a relationship with any person or entity, including misrepresenting a relationship with Compada, or otherwise attempt to mislead others as to the identity of the sender or the origin of a review or rating;
 
-    - knowingly provide or submit false or misleading information;
+    7. knowingly provide or submit false or misleading information;
 
-    - use the Sites and Services if you are under the age of eighteen (18);
+    8. use the Sites and Services if you are under the age of eighteen (18);
 
-    - take any action that would undermine the review and rating process under the Sites and Services;
+    9. take any action that would undermine the review and rating process under the Sites and Services;
 
-    - attempt to gain unauthorized access to the Sites and Services, other user accounts, or other computer systems or networks connected to the Sites and Services;
+    10. attempt to gain unauthorized access to the Sites and Services, other user accounts, or other computer systems or networks connected to the Sites and Services;
 
-    - use the Sites and Services in any way that could interfere with the rights of Compada or the rights of other users of the Sites and Services;
+    11. use the Sites and Services in any way that could interfere with the rights of Compada or the rights of other users of the Sites and Services;
 
-    - attempt to gain unauthorized access to any portion or feature of the Sites and Services, or any other systems or networks connected to the Sites and Services or to any server used by Compada by hacking, password 'mining' or any other illegitimate or unauthorized means, including attempting to obtain password, account, or any other personal or private information from any other Sites and Services user;
+    12. attempt to gain unauthorized access to any portion or feature of the Sites and Services, or any other systems or networks connected to the Sites and Services or to any server used by Compada by hacking, password 'mining' or any other illegitimate or unauthorized means, including attempting to obtain password, account, or any other personal or private information from any other Sites and Services user;
 
-    - sell, share, or otherwise transfer your account username, password, other information, or your rights or obligations under these Terms of Use;
+    13. sell, share, or otherwise transfer your account username, password, other information, or your rights or obligations under these Terms of Use;
 
-    - transmit or submit any transmission or other materials that are encrypted or that contains viruses, Trojan horses, worms, time bombs, spiders, cancelbots or other computer programming routines that is likely or intended to damage, interfere with, disrupt, impair, disable or otherwise overburden the Sites and Services;
+    14. transmit or submit any transmission or other materials that are encrypted or that contains viruses, Trojan horses, worms, time bombs, spiders, cancelbots or other computer programming routines that is likely or intended to damage, interfere with, disrupt, impair, disable or otherwise overburden the Sites and Services;
 
-    - access, download, monitor, or copy any information contained on our Sites and Services through artificial means (including but not limited to use any 'deep-link', 'scraper', 'robot', 'spider' or other automatic device, program, algorithm or methodology, or any similar or equivalent automatic or manual process, or in any way reproduce or circumvent the navigational structure or presentation of the Sites and Services or any content, to obtain or attempt to obtain any Content, materials, documents or information through any means not purposely made available through the Sites and Services; or
+    15. access, download, monitor, or copy any information contained on our Sites and Services through artificial means (including but not limited to use any 'deep-link', 'scraper', 'robot', 'spider' or other automatic device, program, algorithm or methodology, or any similar or equivalent automatic or manual process, or in any way reproduce or circumvent the navigational structure or presentation of the Sites and Services or any content, to obtain or attempt to obtain any Content, materials, documents or information through any means not purposely made available through the Sites and Services; or
 
-    - probe, scan or test the vulnerability of the Sites and Services or any network connected to the Sites and Services, nor breach the security or authentication measures on or of the Sites and Services or any network connected to the Sites and Services. You may not reverse look-up, trace or seek to trace any information on any other user of the Sites and Services, or any other customer of Compada, including any Compada account not owned by you, to its source, or exploit the Sites and Services or any service or information made available or offered by or through the Sites and Services, in any way where the purpose is to reveal any information, including but not limited to personal identification or information other than your own information, except as expressly authorized by Compada and provided for by the Sites and Services.
+    16. probe, scan or test the vulnerability of the Sites and Services or any network connected to the Sites and Services, nor breach the security or authentication measures on or of the Sites and Services or any network connected to the Sites and Services. You may not reverse look-up, trace or seek to trace any information on any other user of the Sites and Services, or any other customer of Compada, including any Compada account not owned by you, to its source, or exploit the Sites and Services or any service or information made available or offered by or through the Sites and Services, in any way where the purpose is to reveal any information, including but not limited to personal identification or information other than your own information, except as expressly authorized by Compada and provided for by the Sites and Services.
 
 5. COMPADA SERVICES
 
@@ -73,39 +73,39 @@ Compada, Inc. helps consumers research, hire, rate, and review a variety of serv
 
     As a condition of submitting any Content or other materials to the Sites or Services, you agree that:
 
-    - you grant to Compada a royalty free, perpetual, irrevocable, worldwide, nonexclusive, transferable, and sublicensable license to use, reproduce, copy, adapt, modify, merge, distribute, publicly display, create derivative works from, incorporate such Content into other works;
+    1. you grant to Compada a royalty free, perpetual, irrevocable, worldwide, nonexclusive, transferable, and sublicensable license to use, reproduce, copy, adapt, modify, merge, distribute, publicly display, create derivative works from, incorporate such Content into other works;
 
-    - you grant to Compada all rights necessary to publish or refrain from publishing your name and address in connection with your Content; sublicense through multiple tiers the Content, and acknowledge that this license cannot be terminated by you once your Content is submitted to the Sites and Services;
+    2. you grant to Compada all rights necessary to publish or refrain from publishing your name and address in connection with your Content; sublicense through multiple tiers the Content, and acknowledge that this license cannot be terminated by you once your Content is submitted to the Sites and Services;
 
-    - you grant to Compada all rights necessary to prohibit the subsequent aggregation, display, copying, duplication, reproduction, distribution, or exploitation of your Content by any other party;
+    3. you grant to Compada all rights necessary to prohibit the subsequent aggregation, display, copying, duplication, reproduction, distribution, or exploitation of your Content by any other party;
 
-    - your name and report information may be made available to the public and to the Service Providers on which you report;
+    4. your name and report information may be made available to the public and to the Service Providers on which you report;
 
-    - you represent that you own or have secured all legal rights necessary for the Content submitted by you to be used by you, Compada, and others as described and otherwise contemplated in these Terms of Use;
+    5. you represent that you own or have secured all legal rights necessary for the Content submitted by you to be used by you, Compada, and others as described and otherwise contemplated in these Terms of Use;
 
-    - you represent and warrant that each person identified, depicted, or shown in in your Content, if any, (and if a minor, the parent or guardian of the minor) has provided consent to the use of the Content consistent with these Terms of Use;
+    6. you represent and warrant that each person identified, depicted, or shown in in your Content, if any, (and if a minor, the parent or guardian of the minor) has provided consent to the use of the Content consistent with these Terms of Use;
 
-    - you are solely responsible for your reviews and ratings;
+    7. you are solely responsible for your reviews and ratings;
 
-    - Compada may, in its sole discretion, choose to remove or not to remove reviews and ratings once published;
+    8. Compada may, in its sole discretion, choose to remove or not to remove reviews and ratings once published;
 
-    - you will not submit any reviews that may be considered by Compada to be infringing, harassing, libelous, abusive, threatening, obscene, profane, hateful, offensive, harmful, vulgar, distasteful, defamatory, or otherwise violates any relevant law or right of any other party, or racially, ethnically or otherwise objectionable;
+    9. you will not submit any reviews that may be considered by Compada to be infringing, harassing, libelous, abusive, threatening, obscene, profane, hateful, offensive, harmful, vulgar, distasteful, defamatory, or otherwise violates any relevant law or right of any other party, or racially, ethnically or otherwise objectionable;
 
-    - all of your reviews and ratings will either be based upon (i) your actual first-hand experiences with the Service Providers you are reviewing or (ii) as provided below, an individual and that individual's actual first-hand experience with a advisor whereby you have the legal authority to disclose such information and experience of such individual;
+    10. all of your reviews and ratings will either be based upon (i) your actual first-hand experiences with the Service Providers you are reviewing or (ii) as provided below, an individual and that individual's actual first-hand experience with a advisor whereby you have the legal authority to disclose such information and experience of such individual;
 
-    - all of your reviews and ratings of the Service Providers that you are rating will be accurate, honest, truthful, and complete in all respects;
+    11. all of your reviews and ratings of the Service Providers that you are rating will be accurate, honest, truthful, and complete in all respects;
 
-    - you do not work for, own any interest in or serve on the board of directors of, any of the Service Providers for which you submit reviews and ratings; you are not in any way related (by blood, adoption or marriage, if the Service Provider is an individual) to any of the Service Providers for which you submit reviews or ratings;
+    12. you do not work for, own any interest in or serve on the board of directors of, any of the Service Providers for which you submit reviews and ratings; you are not in any way related (by blood, adoption or marriage, if the Service Provider is an individual) to any of the Service Providers for which you submit reviews or ratings;
 
-    - you have not received any form of compensation to post reviews and ratings;
+    13. you have not received any form of compensation to post reviews and ratings;
 
-    - you will submit thorough and thoughtful reviews of the Service Providers you review (for example, submitting a review describing an advisor as "He/She is great." Without additional commentary is not a thorough and thoughtful review);
+    14. you will submit thorough and thoughtful reviews of the Service Providers you review (for example, submitting a review describing an advisor as "He/She is great." Without additional commentary is not a thorough and thoughtful review);
 
-    - you will not submit reviews that comment on other users or the reviews of other users;
+    15. you will not submit reviews that comment on other users or the reviews of other users;
 
-    - you will not submit reviews with hyperlinks; or
+    16. you will not submit reviews with hyperlinks; or
 
-    - the reviews and ratings that you provide do not reflect the views of Compada, its officers, managers, owners, employees, agents, designers or other users.
+    17. the reviews and ratings that you provide do not reflect the views of Compada, its officers, managers, owners, employees, agents, designers or other users.
 
 8. PUBLICATION AND DISTRIBUTION OF CONTENT
 
@@ -171,19 +171,19 @@ Compada, Inc. helps consumers research, hire, rate, and review a variety of serv
 
     If You are a copyright or trademark owner (or authorized to act on behalf of the copyright or trademark owner) and believe that Your work's copyright or trademark has been infringed, please report Your notice of infringement to us by providing our Designated Agent with a written notification of claimed infringement that includes substantially the following:
 
-    - a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+    1. a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
 
-    - identification of the copyrighted work or trademark claimed to have been infringed, or, if multiple copyrighted works or trademarks at a single online site are covered by a single notification, a representative list of such works at that site;
+    2. identification of the copyrighted work or trademark claimed to have been infringed, or, if multiple copyrighted works or trademarks at a single online site are covered by a single notification, a representative list of such works at that site;
 
-    - identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+    3. identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
 
-    - information reasonably sufficient to permit us to contact You, such as an address, telephone number, and, if available, an electronic mail address at which You may be contacted;
+    4. information reasonably sufficient to permit us to contact You, such as an address, telephone number, and, if available, an electronic mail address at which You may be contacted;
 
-    - a statement that You have a good faith belief that use of the material in the manner complained of is not authorized by the copyright or trademark owner, its agent, or the law;
+    5. a statement that You have a good faith belief that use of the material in the manner complained of is not authorized by the copyright or trademark owner, its agent, or the law;
 
-    - a statement that the information in the notification is accurate, and under penalty of perjury, that You are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; and
+    6. a statement that the information in the notification is accurate, and under penalty of perjury, that You are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; and
 
-    - Compada will investigate notices of copyright and trademark infringement and take appropriate actions under the DMCA. Inquiries that do not follow this procedure may not receive a response.
+    7. Compada will investigate notices of copyright and trademark infringement and take appropriate actions under the DMCA. Inquiries that do not follow this procedure may not receive a response.
 
 15. DELAYS AND ACCESSIBILITY
 
@@ -221,7 +221,7 @@ Compada, Inc. helps consumers research, hire, rate, and review a variety of serv
 
 19. LIMITATIONS OF LIABILITY
 
-    YOU EXPRESSLY UNDERSTAND AND AGREE THAT COMPADA WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, COMPENSATORY, CONSEQUENTIAL OR EXEMPLARY DAMAGES (EVEN IF COMPADA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) (COLLECTIVELY, "DAMAGES"), RESULTING FROM: (A) THE USE OR INABILITY TO USE THE SERVICE; (B) THE COST OF ANY GOODS AND/OR SERVICES PURCHASED OR OBTAINED AS A RESULT OF THE USE OF THE SERVICE; (C) DISCLOSURE OF, UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR INFORMATION OR CONTENT; (D) CONTENT YOU SUBMIT, RECEIVE, ACCESS, TRANSMIT OR OTHERWISE CONVEY THROUGH THE SERVICE; (E) STATEMENTS OR CONDUCT OF ANY SERVICE PROVIDERS OR OTHER THIRD PARTY THROUGH THE SERVICE; (F) ANY OTHER MATTER RELATING TO THE SERVICE; (G) ANY BREACH OF THIS AGREEMENT BY COMPADA OR THE FAILURE OF COMPADA TO PROVIDE THE SERVICE UNDER THIS AGREEMENT OR (H) ANY OTHER DEALINGS OR INTERACTIONS YOU HAVE WITH ANY SERVICE PROVIDERS (OR ANY OF THEIR REPRESENTATIVES OR AGENTS). THESE LIMITATIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. In some jurisdictions, limitations of liability are not permitted. In such jurisdictions, some of the foregoing limitations may not apply to You.
+    YOU EXPRESSLY UNDERSTAND AND AGREE THAT COMPADA WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, COMPENSATORY, CONSEQUENTIAL OR EXEMPLARY DAMAGES (EVEN IF COMPADA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) (COLLECTIVELY, "DAMAGES"), RESULTING FROM: (A) THE USE OR INABILITY TO USE THE SERVICE; (B) THE COST OF ANY GOODS AND/OR SERVICES PURCHASED OR OBTAINED AS A RESULT OF THE USE OF THE SERVICE; (C) DISCLOSURE OF, UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR INFORMATION OR CONTENT; (D) CONTENT YOU SUBMIT, RECEIVE, ACCESS, TRANSMIT OR OTHERWISE CONVEY THROUGH THE SERVICE; (E) STATEMENTS OR CONDUCT OF ANY SERVICE PROVIDERS OR OTHER THIRD PARTY THROUGH THE SERVICE; (F) ANY OTHER MATTER RELATING TO THE SERVICE; (G) ANY BREACH OF THIS AGREEMENT BY COMPADA OR THE FAILURE OF COMPADA TO PROVIDE THE SERVICE UNDER THIS AGREEMENT OR (H) ANY OTHER DEALINGS OR INTERACTIONS YOU HAVE WITH ANY SERVICE PROVIDERS (OR ANY OF THEIR REPRESENTATIVES OR AGENTS). THESE LIMITATIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. IN SOME JURISDICTIONS, LIMITATIONS OF LIABILITY ARE NOT PERMITTED. IN SUCH JURISDICTIONS, SOME OF THE FOREGOING LIMITATIONS MAY NOT APPLY TO YOU.
 
     YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT COMPADA CONTRACTS WITH A THIRD PARTY TO PROCESS YOUR PAYMENT OF SERVICE FEES TO COMPADA THROUGH THE USE OF A CREDIT CARD (A "CREDIT CARD PROCESSOR"). YOU UNDERSTAND AND AGREE THAT NEITHER A CREDIT CARD PROCESSOR NOR ANY OTHER PARTY INVOLVED IN THE CREDIT CARD PROCESSING PROCESS FOR COMPADA, INCLUDING, BUT NOT LIMITED TO, THE COMPANY ISSUING THE CREDIT CARD TO YOU AND THE MERCHANT BANK (COLLECTIVELY, THE "RELEASED PARTIES") SHALL BE LIABLE FOR ANY DAMAGES (AS DEFINED HEREIN AND SUBJECT TO THE LIMITATIONS SET FORTH IN THIS SECTION SUFFERED BY YOU AS A RESULT OF THE FAILURE OF COMPADA TO PROVIDE SERVICES TO YOU UNDER THIS AGREEMENT OR ANY BREACH OF THIS AGREEMENT BY COMPADA. YOU HEREBY RELEASE EACH OF THE RELEASED PARTIES FROM ANY AND ALL DAMAGES YOU MAY SUFFER AS A RESULT OF THE FAILURE OF COMPADA TO PROVIDE SERVICES TO YOU UNDER THIS AGREEMENT OR ANY BREACH OF THIS AGREEMENT BY COMPADA. YOU AGREE TO INDEMNIFY AND HOLD HARMLESS EACH OF THE RELEASED PARTIES FOR ANY AND ALL DAMAGES IT MAY SUFFER AS A RESULT OF YOUR BREACH OF THIS SECTION. YOU HEREBY UNDERSTAND AND AGREE THAT COMPADA SHALL BE SOLELY LIABLE FOR THE PAYMENT OF ANY DAMAGES TO YOU UNDER THIS AGREEMENT.
 
@@ -243,17 +243,17 @@ Compada, Inc. helps consumers research, hire, rate, and review a variety of serv
 
 22. MUTUAL ARBITRATION AGREEMENT
 
-    - Informal Negotiations. To expedite resolution and reduce the cost of any dispute, controversy or claim, past, present, or future, between you and Compada, including without limitation any dispute or claim related to or arising out of this Agreement ("Dispute"), you and Compada may attempt to negotiate any Dispute informally (the "Informal Negotiations") before initiating any arbitration or court proceeding. Such Informal Negotiations will commence upon written notice. Your address for any notices under this Section is your physical address that you have provided to Compada. Compada's email address for such notices is [support@compada.io](mailto:support@compada.io?subject=Attn: Legal Department), Attn: Legal Department.
+    1. Informal Negotiations. To expedite resolution and reduce the cost of any dispute, controversy or claim, past, present, or future, between you and Compada, including without limitation any dispute or claim related to or arising out of this Agreement ("Dispute"), you and Compada may attempt to negotiate any Dispute informally (the "Informal Negotiations") before initiating any arbitration or court proceeding. Such Informal Negotiations will commence upon written notice. Your address for any notices under this Section is your physical address that you have provided to Compada. Compada's email address for such notices is [support@compada.io](mailto:support@compada.io?subject=Attn: Legal Department), Attn: Legal Department.
 
-    - Arbitration. If a Dispute is not resolved through Informal Negotiations, you and Compada agree to resolve any and all Disputes (except those Disputes expressly excluded below) through final and binding arbitration ("Arbitration Agreement"). This Arbitration Agreement shall be governed by the Federal Arbitration Act and evidences a transaction involving commerce. The arbitration will be commenced and conducted before a single arbitrator under the Commercial Arbitration Rules (the "AAA Rules") of the American Arbitration Association ("AAA") and, where appropriate, the AAA's Supplementary Procedures for Consumer Related Disputes ("AAA Consumer Rules"), both of which are available at the AAA website (www.adr.org). Your arbitration fees and your share of arbitrator compensation will be governed by the AAA Rules (and, where appropriate, limited by the AAA Consumer Rules). Each party will pay the fees for his/her or its own attorneys, subject to any remedies to which that party may later be entitled under applicable law. The arbitrator will make a decision in writing. Additionally, the arbitrator, and not any federal, state, or local court or agency, shall have the exclusive authority to resolve any dispute relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement. However, the preceding sentence shall not apply to the "Class Action Waiver" described in Subsection (4) below.
+    2. Arbitration. If a Dispute is not resolved through Informal Negotiations, you and Compada agree to resolve any and all Disputes (except those Disputes expressly excluded below) through final and binding arbitration ("Arbitration Agreement"). This Arbitration Agreement shall be governed by the Federal Arbitration Act and evidences a transaction involving commerce. The arbitration will be commenced and conducted before a single arbitrator under the Commercial Arbitration Rules (the "AAA Rules") of the American Arbitration Association ("AAA") and, where appropriate, the AAA's Supplementary Procedures for Consumer Related Disputes ("AAA Consumer Rules"), both of which are available at the AAA website (www.adr.org). Your arbitration fees and your share of arbitrator compensation will be governed by the AAA Rules (and, where appropriate, limited by the AAA Consumer Rules). Each party will pay the fees for his/her or its own attorneys, subject to any remedies to which that party may later be entitled under applicable law. The arbitrator will make a decision in writing. Additionally, the arbitrator, and not any federal, state, or local court or agency, shall have the exclusive authority to resolve any dispute relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement. However, the preceding sentence shall not apply to the "Class Action Waiver" described in Subsection (4) below.
 
-    - Excluded Disputes. You and Compada agree that the following Disputes are excluded from this Arbitration Agreement: (1) any Dispute seeking to enforce or protect, or concerning the validity of, any of your or our intellectual property rights; (2) individual claims in small claims court; (3) any claim that an applicable federal statute expressly states cannot be arbitrated; and (4) any claim for injunctive relief.
+    3. Excluded Disputes. You and Compada agree that the following Disputes are excluded from this Arbitration Agreement: (1) any Dispute seeking to enforce or protect, or concerning the validity of, any of your or our intellectual property rights; (2) individual claims in small claims court; (3) any claim that an applicable federal statute expressly states cannot be arbitrated; and (4) any claim for injunctive relief.
 
-    - WAIVER OF RIGHT TO BE A PLAINTIFF OR CLASS MEMBER IN A CLASS ACTION. To the fullest extent permitted by applicable law, You and Compada agree to bring any Dispute in arbitration on an individual basis only, and not as a class or collective action. There will be no right or authority for any Dispute to be brought, heard or arbitrated as a class or collective action ("Class Action Waiver"). Regardless of anything else in this Arbitration Agreement and/or the applicable AAA Rules or AAA Consumer Rules, the interpretation, applicability, enforceability or formation of the Class Action Waiver may only be determined by a court and not an arbitrator.
+    4. Waiver of Right to be a Plaintiff or Class Member in a Class Action. To the fullest extent permitted by applicable law, You and Compada agree to bring any Dispute in arbitration on an individual basis only, and not as a class or collective action. There will be no right or authority for any Dispute to be brought, heard or arbitrated as a class or collective action ("Class Action Waiver"). Regardless of anything else in this Arbitration Agreement and/or the applicable AAA Rules or AAA Consumer Rules, the interpretation, applicability, enforceability or formation of the Class Action Waiver may only be determined by a court and not an arbitrator.
 
-    - Rules/Standards Governing Arbitration Proceeding. A party who wishes to arbitrate a Dispute covered by this Arbitration Agreement must initiate an arbitration proceeding no later than the expiration of the statute of limitations that applicable law prescribes for the claim asserted. The arbitrator shall apply the statute of limitations that would have applied if the Dispute had been brought in court. The arbitrator may award any remedy to which a party is entitled under applicable law, but remedies shall be limited to those that would be available to a party in their individual capacity, and no remedies that otherwise would be available to an individual under applicable law will be forfeited. The arbitrator is without authority to apply any different substantive law. The parties have the right to conduct adequate civil discovery and present witnesses and evidence as needed to present their cases and defenses, and any dispute in this regard shall be decided by the arbitrator. The location of the arbitration proceeding shall take place in the city or county where you reside, unless each party agrees otherwise. A court of competent jurisdiction shall have the authority to enter judgment upon the arbitrator's decision/award.
+    5. Rules/Standards Governing Arbitration Proceeding. A party who wishes to arbitrate a Dispute covered by this Arbitration Agreement must initiate an arbitration proceeding no later than the expiration of the statute of limitations that applicable law prescribes for the claim asserted. The arbitrator shall apply the statute of limitations that would have applied if the Dispute had been brought in court. The arbitrator may award any remedy to which a party is entitled under applicable law, but remedies shall be limited to those that would be available to a party in their individual capacity, and no remedies that otherwise would be available to an individual under applicable law will be forfeited. The arbitrator is without authority to apply any different substantive law. The parties have the right to conduct adequate civil discovery and present witnesses and evidence as needed to present their cases and defenses, and any dispute in this regard shall be decided by the arbitrator. The location of the arbitration proceeding shall take place in the city or county where you reside, unless each party agrees otherwise. A court of competent jurisdiction shall have the authority to enter judgment upon the arbitrator's decision/award.
 
-    - Severability. You and Compada agree that if any portion of this Section entitled "Mutual Arbitration Agreement" is found illegal or unenforceable, that portion will be severed, and the remainder of this Section will be given full force and effect.
+    6. Severability. You and Compada agree that if any portion of this Section entitled "Mutual Arbitration Agreement" is found illegal or unenforceable, that portion will be severed, and the remainder of this Section will be given full force and effect.
 
 23. GOVERNING LAW
 
