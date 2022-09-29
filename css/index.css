@@ -2213,6 +2213,14 @@ a[disabled] {
   padding-bottom: 4rem;
 }
 
+.pb-1 {
+  padding-bottom: 0.25rem;
+}
+
+.pb-4 {
+  padding-bottom: 1rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -2632,6 +2640,10 @@ a[disabled] {
     display: block;
   }
 
+  .sm\:flex {
+    display: flex;
+  }
+
   .sm\:h-72 {
     height: 18rem;
   }
@@ -2658,6 +2670,10 @@ a[disabled] {
 
   .sm\:justify-end {
     justify-content: flex-end;
+  }
+
+  .sm\:justify-between {
+    justify-content: space-between;
   }
 
   .sm\:px-6 {
