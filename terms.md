@@ -13,7 +13,7 @@ Compada, Inc. helps consumers research, hire, rate, and review a variety of serv
 
 1. ACCEPTANCE OF TERMS
 
-    The Compada website available at {{ site.url }}, Compada mobile application, all related sites and mobile applications, and the various content, features, and services offered on and in connection with these sites and applications (collectively, the "Sites and Services") are owned and operated by Compada and can only be accessed and used by you under the Terms of Use described below ("Terms of Use").
+    The Compada website available at <{{ site.url }}>, Compada mobile application, all related sites and mobile applications, and the various content, features, and services offered on and in connection with these sites and applications (collectively, the "Sites and Services") are owned and operated by Compada and can only be accessed and used by you under the Terms of Use described below ("Terms of Use").
 
     PLEASE READ THESE TERMS OF USE CAREFULLY. BY ACCESSING, DOWNLOADING, OR USING ANY OF THE SITES AND SERVICES, YOU AGREE TO BECOME BOUND BY THESE TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO ALL THE TERMS AND CONDITIONS, THEN YOU MAY NOT ACCESS AND USE THE SITES AND SERVICES.
 
@@ -161,7 +161,7 @@ Compada, Inc. helps consumers research, hire, rate, and review a variety of serv
 
 14. NOTICES
 
-    You agree that Compada may communicate any notices to You under these Terms of Use, through electronic mail, regular mail or posting the notices on the Site. All notices to Compada will be provided by first sending an email to info@compada.io. Attn: Customer Care. Such notices will be deemed delivered upon the earliest of the verification of receipt, normally (2) business days after being sent.
+    You agree that Compada may communicate any notices to You under these Terms of Use, through electronic mail, regular mail or posting the notices on the Site. All notices to Compada will be provided by first sending an email to [support@compada.io](mailto:support@compada.io?subject=Attn: Customer Care), Attn: Customer Care. Such notices will be deemed delivered upon the earliest of the verification of receipt, normally (2) business days after being sent.
 
     In accordance with the Digital Millennium Copyright Act of 1998, Title 17 of the United States Code, Section 512 ("DMCA"), Compada will respond promptly to claims of copyright or trademark infringement that are reported to the agent that we have designated to receive notifications of claims infringement (its "Designated Agent"). Our Designated Agent is:
 
