@@ -157,6 +157,6 @@ All requests, questions, concerns, or complaints about your Personal Information
 
 Attn: Privacy Officer\
 Compada, Inc.\
-E-mail: [support@compada.io](mailto:support@compada.io?subject=Attn: Privacy Officer)
+Email: [support@compada.io](mailto:support@compada.io?subject=Attn: Privacy Officer)
 
 We welcome your questions and comments.
