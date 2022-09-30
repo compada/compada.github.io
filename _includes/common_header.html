@@ -5,12 +5,15 @@
   </div>
   <div class="relative mx-auto max-w-7xl py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
     {% if page.date %}
-    <h2 class="text-lg font-semibold text-cyan-800 dark:text-cyan-300">{{ page.date | date_to_long_string }}</h2>
+    <time datetime="{{ page.date | date: '%Y-%m-%d' }}" class="text-lg font-semibold text-cyan-800 dark:text-cyan-300">{{ page.date | date: '%b %Y' }}</time>
     {% endif %}
     <h1 class="text-4xl font-bold tracking-tight dark:text-white sm:text-5xl lg:text-6xl">{{ page.title }}</h1>
     <p class="mt-6 max-w-3xl text-xl dark:text-gray-50">{{ page.description }}</p>
-    {% if page.author %}
-    <h3 class="text-lg font-semibold text-cyan-800 dark:text-cyan-300">{{ site.data.authors[page.author].name }}</h3>
-    {% endif %}
+    <div class="sm:flex justify-between">
+      {% if page.author %}
+      <h3 class="text-lg font-semibold text-cyan-800 dark:text-cyan-300">{{ site.data.authors[page.author].name }}</h3>
+      {% endif %}
+      <p>{{ page.tags | join: ", " }}</p>
+    </div>
   </div>
 </div>
