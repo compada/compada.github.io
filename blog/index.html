@@ -20,11 +20,11 @@ image: https://unsplash.com/photos/vcF5y2Edm6A/download?ixid=MnwxMjA3fDB8MXxzZWF
       <div class="hidden sm:block">
         <p class="text-sm">
           Showing
-          <span class="font-medium">{{ paginator.per_page | times: paginator.page | minus: paginator.per_page | plus: 1 }}</span>
+          <span class="font-medium">{{ paginator.per_page | times: paginator.page | minus: paginator.per_page | plus: 1 | at_most: paginator.total_posts }}</span>
           to
           <span class="font-medium">{{ paginator.per_page | times: paginator.page | at_most: paginator.total_posts }}</span>
           of
-          <span class="font-medium">{{ paginator.total_posts }}</span>
+          <span class="font-medium">{{ paginator.total_posts | at_least: 0 }}</span>
           articles
         </p>
       </div>
