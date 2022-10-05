@@ -30,7 +30,7 @@ image: images/people-network.svg
             <div class="mt-10 sm:mt-12">
               <div class="sm:flex justify-between">
                 {% capture href -%}
-                {{ site.auth0_url }}&screen_hint=signup&prospect=business
+                {{ site.auth0_url }}&screen_hint=signup&ext-prospect=business
                 {%- endcapture %}
                 <!-- Heroicon name: LinkedIn -->
                 {% assign linkedin_svg = "m 15.6 0 h -11.5 c -2.3 0 -4.1 1.8 -4.1 4.1 v 11.5 c 0 2.3 1.8 4.1 4.1 4.1 h 11.5 c 2.3 0 4.1 -1.8 4.1 -4.1 v -11.5 c 0 -2.3 -1.8 -4.1 -4.1 -4.1 z m -9 15.6 h -2.5 v -9 h 2.5 v 9 z m -1.2 -10.1 c -0.8 0 -1.4 -0.6 -1.4 -1.4 s 0.6 -1.4 1.4 -1.4 s 1.4 0.6 1.4 1.4 s -0.6 1.4 -1.4 1.4 z m 11.1 10.1 h -2.5 v -4.6 c 0 -2.8 -3.3 -2.6 -3.3 0 v 4.6 h -2.5 v -9 h 2.5 v 1.4 c 1.1 -2.1 5.7 -2.3 5.7 2 v 5.5 z" %}
@@ -38,7 +38,7 @@ image: images/people-network.svg
                 {% include button_primary_icon.html href=href content="I have a problem..." svg=linkedin_svg %}
 
                 {% capture href -%}
-                {{ site.auth0_url }}&screen_hint=signup&prospect=advisor
+                {{ site.auth0_url }}&screen_hint=signup&ext-prospect=advisor
                 {%- endcapture %}
 
                 {% include button_primary_icon.html href=href content="I have solutions!" svg=linkedin_svg %}
