@@ -31,4 +31,4 @@ twitter:
 author: Compada
 
 gtm: GTM-PGTSD2G
-auth0_url: https://compada.us.auth0.com/authorize?response_type=token&client_id=3wQwXEfNkpuxwPZUaPaKgu98lbKJzaB9&redirect_uri=https://www.linkedin.com/company/compada
+auth0_url: https://compada.us.auth0.com/authorize?response_type=token&access_type=offline&client_id=3wQwXEfNkpuxwPZUaPaKgu98lbKJzaB9&redirect_uri=https://www.linkedin.com/company/compada

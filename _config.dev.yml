@@ -1,1 +1,1 @@
-auth0_url: https://dev-rn5wavki.us.auth0.com/authorize?response_type=token&client_id=mXYOfDVP09PygHlpOPa48i7cfLzVUc0J&redirect_uri=http://localhost:8081
+auth0_url: https://dev-rn5wavki.us.auth0.com/authorize?response_type=token&access_type=offline&client_id=mXYOfDVP09PygHlpOPa48i7cfLzVUc0J&redirect_uri=http://localhost:8081
