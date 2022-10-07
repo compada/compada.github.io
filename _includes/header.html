@@ -24,10 +24,10 @@
           </div>
         </div>
         <div class="hidden space-x-8 md:ml-10 md:flex">
-          {% for link in site.data.links.offerings %}
+        {% for link in site.data.links.offerings %}
           {% assign linked-page = site.pages | where: "path", link[0] | first %}
-            <a href="{{ link[1].url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">{{ linked-page.title }}</a>
-          {% endfor %}
+          <a href="{{ link[1].url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">{{ linked-page.title }}</a>
+        {% endfor %}
           <a href="{{ blog-page.url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">{{ blog-page.title }}</a>
         </div>
       </div>
@@ -64,10 +64,10 @@
       </div>
       <div class="pt-5 pb-6">
         <div class="text-center space-y-1 px-2">
-          {% for link in site.data.links.offerings %}
+        {% for link in site.data.links.offerings %}
           {% assign linked-page = site.pages | where: "path", link[0] | first %}
-            <a href="{{ link[1].url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 dark:text-gray-50 hover:bg-gray-50 dark:hover:bg-gray-700">{{ linked-page.title }}</a>
-          {% endfor %}
+          <a href="{{ link[1].url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 dark:text-gray-50 hover:bg-gray-50 dark:hover:bg-gray-700">{{ linked-page.title }}</a>
+        {% endfor %}
           <a href="{{ blog-page.url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 dark:text-gray-50 hover:bg-gray-50 dark:hover:bg-gray-700">{{ blog-page.title }}</a>
         </div>
         <div class="mt-6 px-5">

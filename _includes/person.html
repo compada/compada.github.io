@@ -1,0 +1,31 @@
+<li>
+  <div class="space-y-4 sm:grid sm:grid-cols-3 sm:gap-6 sm:space-y-0 lg:gap-8">
+    <div class="aspect-w-3 aspect-h-2 h-0 sm:aspect-w-3 sm:aspect-h-4">
+      <img class="rounded-lg object-cover shadow-lg" src="{{ include.person.picture }}" alt="{{ include.person.name }}">
+    </div>
+    <div class="sm:col-span-2">
+      <div class="space-y-4">
+        <div class="space-y-1 text-lg font-medium leading-6">
+          <h3>{{ include.person.name }}</h3>
+          <p class="text-blue-800 dark:text-blue-400">{{ include.person.position }}</p>
+        </div>
+        <div class="text-lg">
+          <p class="text-gray-500">{{ include.person.bio }}</p>
+        </div>
+        <div class="flex space-x-3">
+        {% for social in include.person.socials %}
+          {% assign name = social[0] %}
+          {% assign href = social[1] %}
+          {% assign icon = site.data.links.social[name].d %}
+          <a href="{{ href }}" target="_blank" class="text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">
+            <span class="sr-only">{{ include.person.name }} {{ name }} profile</span>
+            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path fill-rule="evenodd" d="{{ icon }}" clip-rule="evenodd" />
+            </svg>
+          </a>
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</li>

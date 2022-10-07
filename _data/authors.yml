@@ -1,16 +1,26 @@
-compada:
-  name: Compada
-  picture: /images/logo-300-square.png
-  twitter: compada_io
-dudo:
-  name: Brett Dudo
-  picture: /images/brett.dudo.png
-  twitter: mallanaga
 eduardo:
   name: Eduardo Silva
+  bio: Eduardo interweaves his multicultural background and passion for technology into rapid-growth businesses. He has played a key revenue role at Meraki, Cisco Systems, Verkada, Foottraffik, and MediaJel.
+  position: Co-Founder / CEO
   picture: /images/eduardo.silva.png
-  twitter: compada_io
+  twitter: Eduardo69512020
+  socials:
+    twitter: https://twitter.com/Eduardo69512020
+    linkedin: https://www.linkedin.com/in/silvae/
+dudo:
+  name: Brett Dudo
+  bio: Brett is a self-taught and self-driven technologist. He loves creating environments that make his team's job easier. That ease comes in the form of process, automation, and autonomy.
+  position: Co-Founder / CTO
+  picture: /images/brett.dudo.jpg
+  twitter: mallanaga
+  socials:
+    twitter: https://twitter.com/mallanaga
+    linkedin: https://www.linkedin.com/in/bdudo/
+    github: https://github.com/dudo
 aj:
   name: Anthony Martinez
+  position: Co-Founder
   picture: /images/anthony.martinez.png
   twitter: compada_io
+  socials:
+    linkedin: https://www.linkedin.com/in/anthonyajmartinez/
