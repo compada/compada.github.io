@@ -5,8 +5,8 @@ eduardo:
   picture: /images/eduardo.silva.png
   twitter: Eduardo69512020
   socials:
+    linkedin: https://www.linkedin.com/in/silvae
     twitter: https://twitter.com/Eduardo69512020
-    linkedin: https://www.linkedin.com/in/silvae/
 dudo:
   name: Brett Dudo
   bio: Brett is a self-taught and self-driven technologist. He loves creating environments that make his team's job easier. That ease comes in the form of process, automation, and autonomy.
@@ -14,13 +14,13 @@ dudo:
   picture: /images/brett.dudo.jpg
   twitter: mallanaga
   socials:
-    twitter: https://twitter.com/mallanaga
-    linkedin: https://www.linkedin.com/in/bdudo/
+    linkedin: https://www.linkedin.com/in/bdudo
     github: https://github.com/dudo
+    twitter: https://twitter.com/mallanaga
 aj:
   name: Anthony Martinez
   position: Co-Founder
   picture: /images/anthony.martinez.png
   twitter: compada_io
   socials:
-    linkedin: https://www.linkedin.com/in/anthonyajmartinez/
+    linkedin: https://www.linkedin.com/in/anthonyajmartinez
