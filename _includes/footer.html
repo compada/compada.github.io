@@ -14,7 +14,7 @@
         <div class="flex space-x-6">
           {% for link in site.data.links.social %}
           <a href="{{ link[1].url }}" target="_blank" class="text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">
-            <span class="sr-only">{{ link[1].name }}</span>
+            <span class="sr-only">{{ link[1].title }}</span>
             <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path fill-rule="evenodd" d="{{ link[1].d }}" clip-rule="evenodd" />
             </svg>
@@ -28,10 +28,11 @@
             <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/offerings" class="hover:underline">Offerings</a></h3>
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.offerings %}
+              {% assign linked-page = site.pages | where: "path", link[0] | first %}
               <li>
                 <a href="{{ link[1].url }}" {% if link[1].url contains "http" %} target="_blank" {% endif %}
                   class="text-base text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">
-                  {{ link[1].name }}
+                  {{ linked-page.title }} {{ link[1].title }}
                 </a>
               </li>
               {% endfor %}
@@ -41,9 +42,11 @@
             <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/support" class="hover:underline">Support</a></h3>
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.support %}
+              {% assign linked-page = site.pages | where: "path", link[0] | first %}
               <li>
                 <a href="{{ link[1].url }}" {% if link[1].url contains "http" %} target="_blank" {% endif %}
-                  class="text-base text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">{{ link[1].name }}
+                  class="text-base text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">
+                  {{ linked-page.title }} {{ link[1].title }}
                 </a>
               </li>
               {% endfor %}
@@ -55,9 +58,11 @@
             <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/company" class="hover:underline">Company</a></h3>
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.company %}
+              {% assign linked-page = site.pages | where: "path", link[0] | first %}
               <li>
                 <a href="{{ link[1].url }}" {% if link[1].url contains "http" %} target="_blank" {% endif %}
-                  class="text-base text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">{{ link[1].name }}
+                  class="text-base text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">
+                  {{ linked-page.title }} {{ link[1].title }}
                 </a>
               </li>
               {% endfor %}
@@ -67,9 +72,11 @@
             <h3 class="text-base font-medium text-gray-900 dark:text-gray-50"><a href="/legal" class="hover:underline">Legal</a></h3>
             <ul role="list" class="mt-4 space-y-4">
               {% for link in site.data.links.legal %}
+              {% assign linked-page = site.pages | where: "path", link[0] | first %}
               <li>
                 <a href="{{ link[1].url }}" {% if link[1].url contains "http" %} target="_blank" {% endif %}
-                  class="text-base text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">{{ link[1].name }}
+                  class="text-base text-gray-500 hover:text-gray-600 dark:hover:text-gray-400">
+                  {{ linked-page.title }} {{ link[1].title }}
                 </a>
               </li>
               {% endfor %}

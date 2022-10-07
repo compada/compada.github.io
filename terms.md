@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terms of Use
-description: Terms of Use
+description: The rules, specifications, and requirements for the use of our service.
 image: https://unsplash.com/photos/5fNmWej4tAA/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8dGVybXMlMjBvZiUyMHVzZXxlbnwwfHx8fDE2NjQ1MDg1Mzk&force=true&w=1920
 ---
 

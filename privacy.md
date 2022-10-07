@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Privacy Policy
-description: How we handle your data
+description: How we handle your data.
 image: https://unsplash.com/photos/DYLsNF8hNho/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY0MzM5NjYz&force=true&w=1920
 ---
 
