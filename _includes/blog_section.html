@@ -1,11 +1,11 @@
 <!-- Blog section -->
-{% assign blog-page = site.pages | where: "path", "blog/index.html" | first %}
+{% assign solutions-page = site.pages | where: "path", "solutions/index.html" | first %}
 <div class="relative py-16 sm:py-24 lg:py-32">
   <div class="relative">
     <div class="mx-auto max-w-md px-4 text-center sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
       <h2 class="text-lg font-semibold text-cyan-800 dark:text-cyan-400">Learn</h2>
-      <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl"><a class="hover:underline" href="{{ blog-page.url }}">{{ blog-page.title }}</a></p>
-      <p class="mx-auto mt-5 max-w-prose text-xl text-gray-500">{{ blog-page.description }}</p>
+      <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl"><a class="hover:underline" href="{{ solutions-page.url }}">{{ solutions-page.title }}</a></p>
+      <p class="mx-auto mt-5 max-w-prose text-xl text-gray-500">{{ solutions-page.description }}</p>
     </div>
     <div class="mx-auto mt-12 grid max-w-md gap-8 px-4 sm:max-w-lg sm:px-6 lg:max-w-7xl lg:grid-cols-3 lg:px-8">
     {% for post in site.posts limit: 3 %}

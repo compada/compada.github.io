@@ -1,4 +1,3 @@
-{% assign blog-page = site.pages | where: "path", "blog/index.html" | first %}
 <header
   x-data="{ isOpen: false }"
   class="absolute w-full z-50">
@@ -28,7 +27,6 @@
           {% assign linked-page = site.pages | where: "path", link[0] | first %}
           <a href="{{ link[1].url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">{{ linked-page.title }}</a>
         {% endfor %}
-          <a href="{{ blog-page.url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">{{ blog-page.title }}</a>
         </div>
       </div>
       <div class="hidden md:flex md:items-center md:space-x-6">
@@ -68,7 +66,6 @@
           {% assign linked-page = site.pages | where: "path", link[0] | first %}
           <a href="{{ link[1].url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 dark:text-gray-50 hover:bg-gray-50 dark:hover:bg-gray-700">{{ linked-page.title }}</a>
         {% endfor %}
-          <a href="{{ blog-page.url }}" class="block rounded-md px-3 py-2 text-base font-medium text-gray-900 dark:text-gray-50 hover:bg-gray-50 dark:hover:bg-gray-700">{{ blog-page.title }}</a>
         </div>
         <div class="mt-6 px-5">
           <p class="text-center text-base font-medium text-gray-500">Existing member? <a href="{{ site.auth0_url }}" class="text-gray-900 dark:text-gray-50 hover:underline">Log in</a></p>
