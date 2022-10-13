@@ -10,7 +10,7 @@ tags: growth, scale, mission
 
 It may be overwhelming to know that LinkedIn has over 13 million management consultants listed. These numbers point to an obvious problem if you are a small business leader. Compada is designed to help small organizations cut through the noise and find the right Advisor with the skill set needed to align your boldest business goals and roadmap your course to resolution. From the scrappiest of start-ups, to small businesses with over 10 years of stagnated growth. Compada Advisors bring you strategic solutions, engage your employees, align your practices, to help transform your organization and create a culture that thrives so you succeed with your business objectives.
 
-How do you pick the right Advisor from the thousands available around the globe?
+### How do you pick the right Advisor from the thousands available around the globe?
 
 Simply select from a list of specialty areas you need help with, and find the certified Advisor with experience in that area and methodology. You will find a professional with working experience in the particular objective you would like to be advised on.
 
@@ -24,7 +24,7 @@ Business and risk are two words that have been synonymous with each other since 
 
 [Research shows](https://www.fundera.com/blog/what-percentage-of-small-businesses-fail) that 20% of small businesses fail within their first year, 30% fail in the second year and 50% fail after five years. Leaving only 30% of small businesses able to operate past the 10 years.
 
-Why do businesses close down so quickly?
+### Why do businesses close down so quickly?
 
 Business owners operate with a common goal in mind — grow business and maximize profits. There are many obstacles that can compromise the growth of a business, such as problems in your strategy that affect your perception of the business' current status. As some CEOs have shared with Compada, they only know what they know. If you are reading this, you are in luck as these challenges can be avoided by simply growing your familiarity with them before they occur. This is in part Compada's mission!
 
