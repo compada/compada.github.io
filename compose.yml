@@ -13,7 +13,7 @@ services:
   app:
     <<: *bundle
     ports:
-      - ${PORT}:8080
+      - ${PORT}:${PORT}
     command: exec jekyll serve --config "_config.yml,_config.dev.yml"
 
 volumes:
