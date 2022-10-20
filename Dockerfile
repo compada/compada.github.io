@@ -3,7 +3,7 @@ FROM ruby:3
 LABEL maintainer="Brett Dudo <brett@dudo.io>"
 
 # Install dependencies
-RUN apt-get update -qq
+RUN apt-get update -qq && apt-get install -y nodejs npm
 
 ENV HOME /usr/src/app
 WORKDIR $HOME

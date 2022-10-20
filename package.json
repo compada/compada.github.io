@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start:css": "tailwindcss -i ./css/tailwind.index.css -o ./css/index.css --watch",
-		"build:css": "NODE_ENV=production tailwindcss -i ./css/tailwind.index.css -o ./css/index.css -m"
+    "build:css": "NODE_ENV=production tailwindcss -i ./css/tailwind.index.css -o ./css/index.css -m"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",

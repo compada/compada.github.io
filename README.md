@@ -8,8 +8,9 @@ This service makes heavy use of docker and docker compose. Setting up docker is 
 
 ```shell
 cp .env.sample .env
+docker compose run --rm bundle install
+docker compose run --rm npm install
 docker compose up -d
-npx tailwindcss -i ./css/tailwind.index.css -o ./css/index.css --watch
 ```
 
 Visit <http://localhost:8080>

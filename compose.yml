@@ -1,5 +1,6 @@
 services:
   bundle: &bundle
+    env_file: .env
     stdin_open: true
     tty: true
     build:
@@ -10,11 +11,28 @@ services:
     entrypoint: bundle
     command: check
 
+  npm: &npm
+    env_file: .env
+    stdin_open: true
+    tty: true
+    build:
+      context: .
+    volumes:
+      - bundle:/usr/local/bundle:delegated
+      - .:/usr/src/app:delegated
+    entrypoint: npm
+    command: -v
+
   app:
     <<: *bundle
     ports:
       - ${PORT}:${PORT}
     command: exec jekyll serve --config "_config.yml,_config.dev.yml"
 
+  tailwind:
+    <<: *npm
+    command: run start:css
+
 volumes:
   bundle: {}
+  node: {}
