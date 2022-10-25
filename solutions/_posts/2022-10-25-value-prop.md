@@ -12,7 +12,7 @@ As indicated in the Mitigating Business Scalability Risk blog post, the words bu
 
 It's common knowledge that to grow a company, you need to focus on maximizing profits. There are many things that could hinder growth. These include problems in your strategy that may affect your current perception of the company's status. These challenges can be avoided if you become more familiar with common business scaling strategies. Compada was founded because of this. It is our belief that informed business decisions are key to early business success. This post will discuss 2 additional common challenges in scaling businesses and the possible solutions.
 
-## Product-market fit
+## Product market fit
 
 When your product is in demand, it is called product-market fit. If customers are interested in the product that a business sells, then that business has achieved a product-market fit. Entrepreneurs are able to identify a market need and create a solution that customers will buy. As explained by [startup coach and investor Marc Andreessen](https://pmarchive.com/guide_to_startups_part4.html), product market fit "means being in a good market with a product that can satisfy that market."
 
