@@ -2,7 +2,7 @@
 date: 2022-10-25
 author: eduardo
 title: Defining Value Prop and Market Fit
-description: Growth can also be viewed as a prerequisite for scaling. When you realize you are no longer a small team of five people, but a large business with 10-30 employees, you enter the growth stage.
+description: Entrepreneurs are able to identify a market need and create a solution that customers will buy, while your value proposition is what sets you apart from the rest.
 categories: business
 tags: market fit, brand voice, value proposition
 image: https://unsplash.com/photos/zoCDWPuiRuA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY2NzIzNzk1&force=true&w=1920
