@@ -14,11 +14,11 @@ It's common knowledge that to grow a company, you need to focus on maximizing pr
 
 ## Product market fit
 
-When your product is in demand, it is called product-market fit. If customers are interested in the product that a business sells, then that business has achieved a product-market fit. Entrepreneurs are able to identify a market need and create a solution that customers will buy. As explained by [startup coach and investor Marc Andreessen](https://pmarchive.com/guide_to_startups_part4.html), product market fit "means being in a good market with a product that can satisfy that market."
+When your product is in demand, it is called product-market fit. If customers are interested in the product that a business sells, then that business has achieved a product-market fit. Entrepreneurs are able to identify a market need and create a solution that customers will buy. [As explained by startup coach and investor Marc Andreessen](https://pmarchive.com/guide_to_startups_part4.html), product market fit "means being in a good market with a product that can satisfy that market."
 
 Although this may seem obvious, it is important to ensure that there are enough people interested in what your business has to offer and to clearly define your value proposition. The product-market fit is more important than any creative ideas or masterful teams. It's something you must consider when building the product. To survive in business, you **must** have people who will buy your products.
 
-This concept is essential to grasp before you even consider scaling or selling products. Study showed that [42 percent of startups fail](https://www.cbinsights.com/research/startup-failure-reasons-top/) due to the release of products no one wants to buy, and [80 percent of new product launches](https://www.publicity.com/marketsmart-newsletters/percentage-new-products-fail/) fail.
+This concept is essential to grasp before you even consider scaling or selling products. Study showed that [42 percent of startups fail](https://www.cbinsights.com/research/startup-failure-reasons-top/) due to the release of products no one wants to buy, and [80 percent of new product launches fail](https://www.publicity.com/marketsmart-newsletters/percentage-new-products-fail/).
 
 ### Solution
 
