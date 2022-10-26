@@ -25,12 +25,12 @@
         <div class="hidden space-x-8 md:ml-10 md:flex">
         {% for link in site.data.links.offerings %}
           {% assign linked-page = site.pages | where: "path", link[0] | first %}
-          <a href="{{ link[1].url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">{{ linked-page.title }}</a>
+          <a href="{{ link[1].url }}" class="text-base font-medium text-white hover:text-gray-200">{{ linked-page.title }}</a>
         {% endfor %}
         </div>
       </div>
       <div class="hidden md:flex md:items-center md:space-x-6">
-        <a href="{{ site.auth0_url }}" class="text-base font-medium dark:text-white hover:text-gray-800 dark:hover:text-gray-200">Log in</a>
+        <a href="{{ site.auth0_url }}" class="text-base font-medium text-white hover:text-gray-200">Log in</a>
       </div>
     </nav>
   </div>

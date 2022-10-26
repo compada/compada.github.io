@@ -1,17 +1,17 @@
-<div class="relative bg-cyan-100 dark:bg-cyan-800">
+<div class="relative bg-cyan-800">
   <div class="absolute inset-0">
     <img class="h-full w-full object-cover" src="{{ page.image }}" alt="">
-    <div class="absolute inset-0 bg-cyan-100 dark:bg-cyan-800 mix-blend-multiply" aria-hidden="true"></div>
+    <div class="absolute inset-0 bg-cyan-800 mix-blend-multiply" aria-hidden="true"></div>
   </div>
   <div class="relative mx-auto max-w-7xl py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
     {% if page.date %}
-    <time datetime="{{ page.date | date: '%Y-%m-%d' }}" class="text-lg font-semibold text-cyan-800 dark:text-cyan-300">{{ page.date | date: '%b %Y' }}</time>
+    <time datetime="{{ page.date | date: '%Y-%m-%d' }}" class="text-lg font-semibold text-cyan-300">{{ page.date | date: '%b %Y' }}</time>
     {% endif %}
-    <h1 class="text-4xl font-bold tracking-tight dark:text-white sm:text-5xl lg:text-6xl">{{ page.title }}</h1>
-    <p class="mt-6 max-w-3xl text-xl dark:text-gray-50">{{ page.description }}</p>
+    <h1 class="text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">{{ page.title }}</h1>
+    <p class="mt-6 max-w-3xl text-xl text-gray-50">{{ page.description }}</p>
     <div class="sm:flex justify-between">
       {% if page.author %}
-      <h3 class="text-lg font-semibold text-cyan-800 dark:text-cyan-300">{{ site.data.authors[page.author].name }}</h3>
+      <h3 class="text-lg font-semibold text-cyan-300">{{ site.data.authors[page.author].name }}</h3>
       {% endif %}
       <!-- <p class="text-gray-500">{{ page.tags | join: ", " }}</p> -->
     </div>
