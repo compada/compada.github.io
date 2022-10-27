@@ -1,5 +1,5 @@
 ---
-date: 2022-10-28
+date: 2022-10-31
 author: eduardo
 title: Measuring Marketing Channels to Scale Your Business
 description: It is important to understand which marketing channel is best for your business before scaling. Every business sells differently. This difference extends beyond the product or service offered.
