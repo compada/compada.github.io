@@ -29,4 +29,4 @@ If you don't already have a marketing platform set-up such as Hubspot, Pardot, M
 
 You want to determine which of your advertising channels not only perform, but also can scale. Some marketing channels will deliver great results but won't scale with your business. There is nothing wrong with a small marketing channel, but in order to scale your business you need various channels all producing to achieve the desired business goal. Therefore, identify a combination of marketing channels that will help you get there.
 
-Speak to a Compada Advisor with experience building, measuring, and optimizing marketing channels to learn more. Email us at info@compada.io.
+Compada is the first and most innovative Advisor network marketplace that brings you professionals with expertise in helping align your boldest business goals, while saving you time and money. Speak to a Compada Advisor with experience building, measuring, and optimizing marketing channels. To get started email us at [info@compada.io](info@compada.io).
