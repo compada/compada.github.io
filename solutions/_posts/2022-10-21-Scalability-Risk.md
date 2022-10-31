@@ -1,7 +1,7 @@
 ---
 date: 2022-10-21
 author: eduardo
-title: Mitigating Business Scalability Risk
+title: Mitigating Early Stage Business Scalability Risk
 description: Growth can also be viewed as a prerequisite for scaling. When you realize you are no longer a small team of five people, but a large business with 10-30 employees, you enter the growth stage.
 categories: business
 tags: problems business risk solutions
@@ -70,4 +70,4 @@ Look for these 4 performance indicators to pulse check if your are ready to scal
 - High retention rates
 - Predictable low cost of customer acquisition
 
-For more information on how to achieve growth and scale in your operations, connect with a Compada Advisor to jump start this process! Emails us at info@compada.io.
+For more information on how to achieve growth and scale in your operations, connect with a Compada Advisor to jump start this process! Emails us at [info@compada.io](info@compada.io).
