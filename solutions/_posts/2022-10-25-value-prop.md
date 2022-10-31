@@ -46,4 +46,4 @@ Example
 - Set the tone after finalizing your brand voice. Do you want it to be professional, casual, formal, or serious? What about the medium?
 - With a clear description, create a guideline for the business.
 
-For more information on how to build a brand voice and market fit, speak with a Compada Advisor to jump start this process! Emails us. at [info@compada.io](info@compada.io).
+For more information on how to build a brand voice and market fit, speak with a Compada Advisor to jump start this process! Emails us at [info@compada.io](info@compada.io).
