@@ -1,18 +1,18 @@
 ---
 date: 2022-10-21
 author: eduardo
-title: Mitigating Business Scalability Risk
+title: Mitigating Early Stage Business Scalability Risk
 description: Growth can also be viewed as a prerequisite for scaling. When you realize you are no longer a small team of five people, but a large business with 10-30 employees, you enter the growth stage.
 categories: business
 tags: problems business risk solutions
 image: https://unsplash.com/photos/fzOITuS1DIQ/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8YnVzaW5lc3MlMjBwcm9ibGVtfGVufDB8fHx8MTY2NjIyMDk1NA&force=true&w=1920
 ---
 
-Business and risk are two words that have been synonymous with each other since their inception. [Research shows that 20% of small businesses fail within their first year](https://www.fundera.com/blog/what-percentage-of-small-businesses-fail), 30% fail in the second year and 50% fail after five years. Leaving only 30% of small businesses able to grow past the 10 years.
+Business and risk are two words that have been synonymous with each other since their inception. [Research shows that 20% of small businesses fail within their first year](https://www.fundera.com/blog/what-percentage-of-small-businesses-fail), 30% fail in the second year and 50% fail after five years. Leaving only 30% of early stage businesses able to grow past the 10 years.
 
 Why do businesses close down so quickly?
 
-Business owners operate with a common goal in mind: grow business and maximize profits. There are many obstacles that can compromise the growth of a business, such as problems in your strategy, that affect your perception of the business' current status. As some small business CEOs have shared with Compada, they only know what they know. What they don't know is where the problems arise. If you are reading this, you are in luck as these challenges can be avoided by simply growing your familiarity with common business scalability strategies. This is why Compada was formed. We believe early business success comes from informed business decisions. In this post we will share 2 common business scalability challenges and possible solutions that could help you.
+Early stage business owners operate with a common goal in mind: grow business and maximize profits. There are many obstacles that can compromise the growth of a business, such as problems in your strategy, that affect your perception of the business' current status. As some start-up CEOs have shared with Compada, they only know what they know. What they don't know is where the problems arise. If you are reading this, you are in luck as these challenges can be avoided by simply growing your familiarity with common early stage scalability strategies. This is why Compada was formed. We believe early business success comes from informed business decisions. In this post we will share 2 common start-up business scalability challenges and possible solutions that could help you.
 
 What are the most common problems encountered when scaling operations?
 
@@ -24,19 +24,19 @@ If the business hires sales reps before the product is ready for broader market 
 
 ### Solution
 
-Speak to a Compada Advisor with experience in scaling for a temperature check. This is because they have been integral in scaling businesses before, and sometimes more than once. Compada Advisors will help you determine if your company is ready for scaling by analyzing your product roadmap, sales playbook, customer adoption cycles, attrition, retention, demand generation strategy, people operations, and/or talent skill gap alignment.
+Speak to a Compada Advisor with experience in scaling for a temperature check. This is because they have been integral in scaling start-up businesses before, and sometimes more than once. Compada Advisors will help you determine if your company is ready for scaling by analyzing your product roadmap, sales playbook, customer adoption cycles, attrition, retention, demand generation strategy, people operations, and/or talent skill gap alignment.
 
 Compada will help scale effectively by identifying your competitive edge and customizing a playbook to fit your needs, find ways to work efficiently without compromising quality, and automating your operational processes.
 
-These are the nine metrics that you should consider before scaling up your operation:
+These are the nine metrics that you should consider before scaling up your operations:
 
-- Customer loyalty retention
+- Customer Loyalty and Retention
 - Conversion Rate
 - Gross Margin
-- Cost per Customer Acquisition
+- Cost Per Customer Acquisition
 - Customer Lifetime Value
 - Sales Revenue
-- Monthly profit and losses
+- Monthly Profit and Losses
 - Short-term and Long-term Goals
 
 ## Scaling is not growth
@@ -69,3 +69,5 @@ Look for these 4 performance indicators to pulse check if your are ready to scal
 - Diverse income streams
 - High retention rates
 - Predictable low cost of customer acquisition
+
+For more information on how to achieve growth and scale in your operations, connect with a Compada Advisor to jump start this process! Emails us at [info@compada.io](info@compada.io).

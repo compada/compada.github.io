@@ -8,7 +8,7 @@ tags: market fit, brand voice, value proposition
 image: https://unsplash.com/photos/zoCDWPuiRuA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY2NzIzNzk1&force=true&w=1920
 ---
 
-As indicated in our [Mitigating Business Scalability Risk](https://www.compada.io/solutions/business/2022/10/21/risk) blog post, the words business and risk have been synonymous with each other since their inception. In this post we will continue to share ideas which will help lay the foundation to improve your business operations and avoid commonly known set-backs.
+As indicated in our [Mitigating Business Scalability Risk](https://www.compada.io/solutions/business/2022/10/21/risk) blog post, the words business and risk have been synonymous with each other since their inception. In this post we will continue to share ideas which will help lay the foundation to improve your early stage business operations and avoid commonly known set-backs.
 
 It's common knowledge that to grow a company, you need to focus on maximizing profits. There are many things that could hinder growth. These include problems in your strategy that may affect your current perception of the company's status. These challenges can be avoided if you become more familiar with common business scaling strategies. Compada was founded because of this! It is our belief that informed business decisions are key to early business success. This post will discuss 2 additional common challenges in scaling businesses and their possible solutions.
 
@@ -22,9 +22,9 @@ This concept is essential to grasp before you even consider scaling or selling p
 
 ### Solution
 
-Hiring talent with strong product experience is a good idea. This specialist, along with the Product Manager, Sales Manager, and Marketing Manager, should be considered. Coordination between these roles is crucial to ensure that the product and market needs align.
+Hiring talent with strong product experience is a good idea. This specialist, along with the Product Manager, Sales Manager, and Marketing Manager, should be considered. Collaboration between these roles is crucial to ensure that the product and market needs align.
 
-Not maintaining an open mind to a formal feedback loop is a challenge commonly experienced in early technology entrepreneurs. Instead, pushing forward on the original product idea despite timely feedback that new opportunities for the product were discovered.
+Not maintaining an open mind to a formal feedback loop is a challenge commonly experienced in early stage entrepreneurs. Instead, pushing forward on the original product idea despite timely feedback that new opportunities for the product were discovered.
 
 ## Failing to identify your value proposition
 
@@ -46,4 +46,4 @@ Example
 - Set the tone after finalizing your brand voice. Do you want it to be professional, casual, formal, or serious? What about the medium?
 - With a clear description, create a guideline for the business.
 
-For more information on how to build a business brand, speak with a Compada Advisor to jump start this process!
+For more information on how to build a brand voice and market fit, speak with a Compada Advisor to jump start this process! Emails us at [info@compada.io](info@compada.io).
