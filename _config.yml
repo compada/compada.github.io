@@ -16,7 +16,7 @@ defaults:
       layout: post
 paginate: 6
 paginate_path: "/solutions/page:num/"
-name: Compada
+title: Compada
 exclude:
   - Dockerfile
   - compose.yml
